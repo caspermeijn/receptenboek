@@ -1,0 +1,40 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+# Copyright © 2020 Casper Meijn <casper@meijn.net>
+#
+# This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.
+# To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/ or
+#   send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+
+baseURL: https://caspermeijn.gitlab.io/receptenboek/
+languageCode: nl-nl
+title: Receptenboek
+theme: gochowdown
+defaultcontentlanguage: nl
+paginate: 20
+canonifyurls: true
+pygmentsstyle: monokai
+pygmentscodefences: true
+pygmentscodefencesguesssyntax: true
+pygmentsOptions: "linenos=table"
+params:
+  author: Casper Meijn
+  description: Receptenboek van Daphne & Casper
+  keywords: 'recipes'
+  favicon_32: /images/favicon-32x32.png
+  favicon_16: /images/favicon-16x16.png
+  showNavTitle: true
+  repo: 'https://gitlab.com/caspermeijn/receptenboek/'
+menu:
+  main:
+    - name: Home
+      weight: 1
+      url: /
+    - name: Category
+      weight: 2
+      url: /category/
+    - name: Tags
+      weight: 4
+      url: /tags/
+taxonomies:
+  category: category
+  tag: tags
