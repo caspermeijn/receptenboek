@@ -8,7 +8,6 @@
 
 layout: recipe
 date: 2020-08-04
-draft: true
 title: "Broodje Beenham"
 authorName: Casper Meijn
 authorURL: https://caspermeijn.nl
