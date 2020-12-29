@@ -14,10 +14,9 @@ authorURL: https://caspermeijn.nl
 category: Lunch
 tags:
   - Mist foto
-  - Mist tijd
 yield: 4 broodjes
-prepTime: TODO
-cookTime: TODO
+prepTime: 10 minuten
+cookTime: 15 minuten
 
 ingredients:
 - 4 italiaanse bollen (afbak)
@@ -30,7 +29,7 @@ ingredients:
 
 directions:
 - Verwarm de oven voor volgens de verpakking van de broodjes.
-- Bak de broodjes volgens de verpakking. Leg de laatste 5 minuten ook de beenham plakken in de oven.
+- Bak de broodjes volgens de verpakking. Leg de beenham op een bakplaat met bakpapier en doe laatste 5 minuten ook de beenham in de oven.
 - Maak een sausje van de dille, mayonaise, honing, mosterd en wittewijnazijn.
 - Beleg de broodjes met de beenham en de saus.
 ---
