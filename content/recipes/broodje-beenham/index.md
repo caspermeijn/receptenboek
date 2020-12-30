@@ -12,8 +12,6 @@ title: "Broodje Beenham"
 authorName: Casper Meijn
 authorURL: https://caspermeijn.nl
 category: Lunch
-tags:
-  - Mist foto
 yield: 4 broodjes
 prepTime: 10 minuten
 cookTime: 15 minuten
