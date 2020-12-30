@@ -17,7 +17,7 @@ test:
 
 pages:
   script:
-    - hugo
+    - hugo --baseUrl https://caspermeijn.gitlab.io/receptenboek/
   artifacts:
     paths:
       - public
