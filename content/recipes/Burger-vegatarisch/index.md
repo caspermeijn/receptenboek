@@ -11,7 +11,7 @@ date: 2020-12-30
 title: "Burger (vegetarisch)"
 authorName: Daphne3991
 authorURL: https://caspermeijn.nl
-category: Lunch
+category: Avondeten
 tags:
 - Mist foto 
 - Mist preptime & cooktime
