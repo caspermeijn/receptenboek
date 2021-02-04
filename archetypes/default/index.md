@@ -8,13 +8,12 @@
 
 layout: recipe
 date: {{ .Date }}
-draft: true
 title: "{{ replace .Name "-" " " | humanize | title }}"
 authorName: Casper Meijn
 authorURL: https://caspermeijn.nl
 sourceName: # Naam van de bron van het recept
 sourceURL: # Website van de bron van het recept
-category: Lunch
+category: NogInTeVullen
 tags:
   - Mist foto
   - Mist tijd
