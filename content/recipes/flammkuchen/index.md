@@ -14,12 +14,9 @@ authorURL: https://caspermeijn.nl
 sourceName: allerhande
 sourceURL: https://www.ah.nl/allerhande/recept/R-R1191088/flammkuchen-met-bloemkoolbodem
 category: Avondeten
-tags:
-  - Mist foto
-  - Mist tijd
 yield: 2 personen
-prepTime: TODO
-cookTime: TODO 
+prepTime: 20 minuten
+cookTime: 60 minuten 
 
 ingredients:
 - 400 gram bloemkoolrijst
