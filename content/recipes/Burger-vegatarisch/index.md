@@ -16,7 +16,7 @@ tags:
 - Mist foto 
 - Mist preptime & cooktime
   
-yield: 8 broodjes
+yield: 4 broodjes
 prepTime: 
 cookTime: 
   
@@ -29,9 +29,9 @@ ingredients:
 - 1/2 tl peper
 - 1 tl tijm
 - 1 tl peterselie
+- 1 tl oregano
 - tarwemeel
 - roomboter
-- oregano
 - bolletjes
 
 directions:
@@ -39,6 +39,6 @@ directions:
 - snij de wortel en kaas fijn
 - meng de wortel, kaas, havervlokken, het ei en de kruiden
 - kneed alles door elkaar en laat het 15 minuten rusten
-- vorm 8 burgers en bedek deze met meel
+- vorm 4 burgers en bedek deze met meel
 - verhit de boter en bak de burgers aan beide kanten in 10 minuten
 ---
