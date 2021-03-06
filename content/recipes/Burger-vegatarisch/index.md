@@ -14,11 +14,11 @@ authorURL: https://caspermeijn.nl
 category: Avondeten
 tags:
 - Mist foto 
-- Mist preptime & cooktime
+- Mist tijd
   
 yield: 4 broodjes
-prepTime: 
-cookTime: 
+prepTime: TODO
+cookTime: TODO
   
 
 ingredients:
