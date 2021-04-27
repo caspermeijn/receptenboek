@@ -13,32 +13,34 @@ authorName: Daphne3991
 authorURL: https://caspermeijn.nl
 category: Avondeten
 tags:
-- Mist foto 
-- Mist tijd
+- Mist foto
   
 yield: 4 broodjes
-prepTime: TODO
-cookTime: TODO
-  
+prepTime: 10 minuten
+cookTime: 20 minuten
 
 ingredients:
-- 150 gram wortels
-- 100 gram kaas
+- 150 gram snackwortels
+- 100 gram parmazaanse kaas
 - 50 gram havervlokken
 - 1 ei
 - 1/2 tl peper
 - 1 tl tijm
 - 1 tl peterselie
 - 1 tl oregano
+- 4 hamburgerbroodjes
 - tarwemeel
-- roomboter
-- bolletjes
+- Mangochutney
+- Blue band voor bakken
+- Iets voor erbij (ovenfriet misschien?)
 
 directions:
-- schil en rasp de wortel
-- snij de wortel en kaas fijn
-- meng de wortel, kaas, havervlokken, het ei en de kruiden
-- kneed alles door elkaar en laat het 15 minuten rusten
-- vorm 4 burgers en bedek deze met meel
-- verhit de boter en bak de burgers aan beide kanten in 10 minuten
+- Bereid het "Iets voor erbij" volgens de verpakking
+- Vul een kom met havervlokken, het ei en de kruiden
+- Rasp de wortel en kaas in de keukenmachine fijn en voeg deze toe aan de kom
+- Kneed alles door elkaar en laat het 15 minuten rusten
+- Vorm 4 burgers en bedek deze met meel
+- Bak de burgers aan beide kanten in 10 minuten. De pan moet heet zijn en de burgers moeten bruin en knapperig worden.
+- Beleg de broodjes met de burger en mangochutney  
+- Maak een foto voor het receptenboek
 ---
