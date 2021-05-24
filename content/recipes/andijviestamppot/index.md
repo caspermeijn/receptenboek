@@ -32,11 +32,11 @@ ingredients:
 
 directions:
 - Verwarm de oven op 180℃
-- Schil de aardappels en kook deze 20 minuten
+- Pak een grote soeppan. Schil de aardappels en kook ze 20 minuten
 - Snij de tomaten en olijven fijn  
 - Leg de ham op bakpapier op de bakplaat
 - Bestooi ze met gerapste kaas
-- Bak deze 10 minuten krokant in de oven
+- Bak ze 10 minuten krokant in de oven
 - Stamp de aardappels tot een puree
 - Giet de melk en olijfolie erbij en warm nog even door
 - Roer de andijviekruiden erdoor
