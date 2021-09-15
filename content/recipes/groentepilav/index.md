@@ -37,7 +37,7 @@ ingredients:
 - 150 gram yoghurt
 
 directions:
-- Verwarm de oven voor op 220 graden
+- Verwarm de oven voor op 220℃
 - Was de rijst in een zeef en laat deze uitlekken
 - Snij de knoflook fijn
 - Maak de prei schoon en hak deze in de keukenmachine
