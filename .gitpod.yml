@@ -10,3 +10,6 @@ tasks:
 ports:
   - port: 1313
     onOpen: open-preview
+vscode:
+  extensions:
+    - rusnasonov.vscode-hugo
