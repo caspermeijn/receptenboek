@@ -53,5 +53,5 @@ directions:
 - Giet de ijsmix in de ijsmachine volgens de gebruiksaanwijzing van het apparaat
 - Smelt de chocolade en schenk deze tegen het einde van het bevriezingsprocess in de machine. De snelheid van schenken bepaalt de groote van de stukjes
 - Deel het ijs op in bakjes en plaats het in de vriezer
-
+- Maak een foto voor het receptenboek
 ---
