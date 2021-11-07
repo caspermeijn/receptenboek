@@ -14,9 +14,7 @@ authorURL: https://caspermeijn.nl
 sourceName: Boodschappen Magazine nr. 9 van 2021
 sourceURL: https://www.boodschappen.nl/recept/loaded-nachors/
 category: Avondeten
-tags:
-  - Mist foto
-yield: 4 broodjes
+yield: 2 personen
 prepTime: 20 minuten
 cookTime: 10 minuten
 
@@ -25,7 +23,8 @@ ingredients:
 - 2 grote tomaten
 - 1 rode peper
 - 2 bosui
-- 300 gram tortillachips naturel
+- 1 avocado
+- 250 gram tortillachips naturel
 - 150 gram parmezaanse kaas
 - 200 gram vega kruimgehakt
 - 250 gram zure room
@@ -43,5 +42,4 @@ directions:
 - Snij de bosui in ringetjes
 - Maak een sausje van de avocado, bosui en zure room
 - Serveer de nacho's met het sausje
-- Maak een foto voor in het receptenboek
 ---

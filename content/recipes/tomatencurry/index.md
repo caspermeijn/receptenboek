@@ -50,4 +50,5 @@ directions:
 - Haal de deksel van de pan, voeg de mangochutney toe en laat het nog 10 minuten pruttelen
 - Voeg naar smaak peper en zout toe  
 - Serveer de rijst en curry met amandelen
+- Maak een foto voor het receptenboek
 ---

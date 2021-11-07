@@ -60,5 +60,5 @@ directions:
 - Snij de limoen in partjes en serveer deze 
 - Steek een lepel in de yoghurt en serveer deze
 - Hak de amandelen en pistachenootjes fijn en strooi deze over de pilav
-
+- Maak een foto voor het receptenboek
 ---

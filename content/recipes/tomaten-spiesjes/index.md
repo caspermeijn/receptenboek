@@ -35,5 +35,6 @@ directions:
 - Was de basilicum en verzamel 20 grote blaadjes. Hak de rest
 - Meng de mozzarella met gehakte basilicum
 - Rijg 2 tomaten, 1 mozzarella en 1 basilicumblad aan iedere spies
+- Maak een foto voor het receptenboek
 ---
 Deze spiesjes kunnen tot vier uur van te voren klaargemaakt worden en in de koelkast bewaart. In een afsluitbare Pyrex schaal kan het direct uit de koelkast worden uitgeserveerd.
