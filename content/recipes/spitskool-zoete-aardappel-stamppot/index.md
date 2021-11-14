@@ -21,25 +21,25 @@ prepTime: 20 minuten
 cookTime: 10 minuten 
 
 ingredients:
-- 700 gram zoete aardappels
+- 800 gram zoete aardappelblokjes
 - 2 teentjes knoflook
 - 1 ui
 - 1 theelepel kaneelpoeder
 - 1 theelepel korianderpoeder
-- 500 gram spitskool
+- 400 gram spitskool
 - 1 eetlepel boter
-- 160 gram vega shoarma
+- 160 gram vega shoarma (uit de vriezer)
 - 1 eetlepel honing
 
 directions:
-- Schil de aardappels en snij ze in kline blokjes
+- Schil de aardappels en snij ze in kleine blokjes
 - Hak de knoflook
 - Kook de aardappels en knoflook voor 10 minuten
 - Snij de ui in reepjes
-- Bak de ui voor 5 minuten
-- Bak de shoarma voor 4 minuten
-- Voeg de kaneelpoeder, korianderpoeder en spitskool toe en bak nog 5 minuten
-- Voeg de honing toe aan de shoarma en bak nog een paar minuten
+- Bak de ui voor 5 minuten in een hapjespan
+- Voeg de spitskool, kaneelpoeder en korianderpoeder toe en bak nog 5 minuten
+- Bak de vega shoarma in een koekenpan voor 3 minuten
+- Voeg de honing toe en bak nog een paar minuten
 - Giet de aardappelen af
 - Stamp de aardappelen en roer de kool en shoarma erdoorheen
 - Maak foto voor het receptenboek

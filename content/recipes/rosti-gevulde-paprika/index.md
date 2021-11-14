@@ -26,6 +26,7 @@ ingredients:
 - ¼ bos basilicum
 - 1 boterham zonder korst
 - 1 theelepel rozemarijn 
+- 1 teen knoflook
 
 directions:
 - Verwarm de oven voor op 180℃
