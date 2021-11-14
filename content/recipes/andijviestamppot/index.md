@@ -35,11 +35,11 @@ directions:
 - Pak een grote soeppan. Schil de aardappels en kook ze 20 minuten
 - Snij de tomaten en olijven fijn  
 - Leg de ham op bakpapier op de bakplaat
-- Bestooi ze met gerapste kaas
+- Bestooi ze met geraspte kaas
 - Bak ze 10 minuten krokant in de oven
 - Stamp de aardappels tot een puree
 - Giet de melk en olijfolie erbij en warm nog even door
 - Roer de andijviekruiden erdoor
 - Roer de tomaten, olijven en andijvie erdoor
-- Seveer een andijviestamp met de plakken ham
+- Serveer een andijviestamp met de plakken ham
 ---

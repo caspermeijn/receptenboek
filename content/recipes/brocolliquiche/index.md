@@ -8,7 +8,7 @@
 
 layout: recipe
 date: 2021-05-24T12:09:55+02:00
-title: "Brocolliquiche"
+title: "Broccoliquiche"
 authorName: Casper Meijn
 authorURL: https://caspermeijn.nl
 sourceName: # Naam van de bron van het recept

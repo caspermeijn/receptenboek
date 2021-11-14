@@ -34,7 +34,7 @@ ingredients:
 directions:
 - Kweek de gelatine volgens de verpakking
 - Zet een pan op de weegschaal. Voeg de druivensuiker en 5 gram water toe
-- Verwarm de pan totdat het mensel vloeibaar wordt
+- Verwarm de pan totdat het mengsel vloeibaar wordt
 - Snij het vanillestokje doormidden en schrap de vanillezaadjes eruit
 - Voeg de volle melk, room, mageremelkpoeder, de vanillezaadjes en de helft van de suiker toe aan de pan
 - Laat het mengsel in de pan koken en zet daarna het vuur uit

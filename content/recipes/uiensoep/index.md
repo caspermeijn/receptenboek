@@ -41,7 +41,7 @@ ingredients:
 directions:
 - Snij de uien in ringen
 - Hak de knoflook
-- Smelt de boter in een braadpan, voeg de ui, knoflook, laurierblaadjes, tijmblaadjes, balzamicoazijn en meel toe.
+- Smelt de boter in een braadpan, voeg de ui, knoflook, laurierblaadjes, tijmblaadjes, balsamicoazijn en meel toe.
 - Roer 30 minuten tot het mengsel gekarameliseerd is.
 - Giet de appelcider erbij en laat het inkoken.
 - Voeg de bouillon en misopasta toe en laat het 25 minuten zachtjes pruttelen

@@ -40,7 +40,7 @@ directions:
 - Verdeel de pesto over de rijst
 - Verdeel de groentes over de rijst. Laat de plakken een klein stukje overlappen. Begin met de buitenste ring en werk naar het midden toe
 - Sprenkel er 2 eetlepel olijfolie over
-- Zet de pan 25 miunten onder de grill
+- Zet de pan 25 minuten onder de grill
 - Hak de olijven en meng met ½ theelepel azijn en ½ theelepel extra vergine olijfolie
 - Serveer de rijst en groente met de olijventapenade en gescheurde mozzarella
 - Maak een foto voor het receptenboek
