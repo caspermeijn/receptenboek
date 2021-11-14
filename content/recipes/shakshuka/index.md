@@ -36,12 +36,12 @@ ingredients:
 directions:
 - Hak de knoflook en ui
 - Snij de paprika in repen  
-- Verhit 4 el olijfolie in een hapjespan en bak de ui en paprika voor 5 mintuen
+- Verhit 4 el olijfolie in een hapjespan en bak de ui en paprika voor 5 minuten
 - Voeg de knoflook, komijnzaad en paprikapoeder toe en bak 3 minuten
 - Voeg de tomatenpuree toe en bak 2 minuten
 - Voeg de tomatenblokjes, tijm, suiker en 100 ml water toe en roer de saus door
 - Laat het 10 minuten pruttelen met de deksel op de pan
 - Voeg de koriander en peterselie toe en roer de saus door
-- Maak 4 kuiltjes en breek een ei in ieder kluiltje
+- Maak 4 kuiltjes en breek een ei in ieder kuiltje
 - Gaar de eieren in 10 minuten. Experimenteer met de deksel om de dikte van de saus en het garen van het ei te beïnvloeden
 ---

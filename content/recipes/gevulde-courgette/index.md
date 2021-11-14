@@ -42,10 +42,10 @@ directions:
 - Hak het vruchtvlees en voeg toe aan de kom
 - Hak de knoflook en voeg toe aan de kom
 - Rasp de kaas en voeg toe aan de kom
-- Haal het vochtige deel uit de tomaatjes (uitkijpen of wegsnijden), hak ze en voeg toe aan de kom
+- Haal het vochtige deel uit de tomaatjes (uitknijpen of wegsnijden), hak ze en voeg toe aan de kom
 - Rasp boven een schaaltje de citroenschil en voeg de oregano en pijnboompitten toe
 - Meng en schep de helft in de kom
-- Besprekel de courgette met olijfolie
+- Besprenkel de courgette met olijfolie
 - Meng de kom en schep de vulling in de courgette
 - Bak de courgette op een bakplaat in de oven voor 15 minuten
 - Pers de citroen in het schaaltje

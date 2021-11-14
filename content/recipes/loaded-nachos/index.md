@@ -34,7 +34,7 @@ directions:
 - Snij de tomaten, paprika en rode peper in blokjes
 - Bak de gehakt rul en bak de rode peper en paprika 5 minuten mee
 - Bedek een bakplaat met bakpapier
-- Stooi de chips over de bakplaat
+- Strooi de chips over de bakplaat
 - Rasp de helft van de kaas boven de bakplaat
 - Verdeel het gehaktmengsel en de tomaat over de plaat
 - Rasp de rest van de kaas eroverheen

@@ -22,8 +22,8 @@ cookTime: 20 minuten
 
 ingredients:
 - Tante Fanny pizzadeeg met saus
-- 100 gram panzetta
-- 250 gram mozerella
+- 100 gram pancetta
+- 250 gram mozzarella
 - 3 sjalotjes
 - 100 gram pecorino
 - 75 gram parmezaanse kaas
@@ -32,8 +32,8 @@ ingredients:
 directions:
 - Verwarm de oven op 220℃
 - Rol het deeg uit en smeer de saus uit
-- Beleg de pizza met de plakken panzetta
-- Knijp wat vocht uit de mozerella en snij in plakken. Verdeel over de pizza
+- Beleg de pizza met de plakken pancetta
+- Knijp wat vocht uit de mozzarella en snij in plakken. Verdeel over de pizza
 - Snij de sjalotjes in ringen en verdeel deze over de pizza
 - Snij de paprika in repen en verdeel ze over de pizza
 - Rasp de pecorino boven de pizza

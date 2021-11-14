@@ -34,7 +34,7 @@ ingredients:
 directions:
 - Maak de uien en wortels schoon. Hak ze in de keukenmachine
 - Bak ze 10 minuten tot ze zacht zijn
-- Maak 1 liter groenteboullion. Voeg de tomaten toe. Laat de boullion zachtje pruttelen
+- Maak 1 liter groenteboullion. Voeg de tomaten toe. Laat de boullion zachtjes pruttelen
 - Vul een blender met de basilicum, gehakte knoflook, een soeplepel boullion, de extra vergine olijfolie. Pureer en breng op smaak met peper en zout
 - Doe de rijst bij de groente en bak deze 2 minuten
 - Voeg soeplepel voor soeplepel, door een zeef, boullion toe aan de rijst. Wrijf de tomaten door de zeef. Wacht steeds tot het vocht wordt opgenomen door de rijst. Blijf dit 20 minuten doen, totdat de rijst gaar en smeuïg is
