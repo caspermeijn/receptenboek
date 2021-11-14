@@ -36,7 +36,7 @@ directions:
 - Snij de knolselderij en aardappels in kleine blokjes
 - Pel de knoflook
 - Kook de knolselderij, aardappels en knoflook gaar in zout water in 15 minuten. Giet het af en stamp het mengsel fijn
-- Snipper de ui en de peper en bak deze 5 miunten
+- Snipper de ui en de peper en bak deze 5 minuten
 - Voeg de kruimgehakt en tomatensaus toe en bak een paar minuten mee
 - Snij de spitskool in reepjes.
 - Maak laagjes in een ovenschaal van de helft van de gehaktsaus, spitskool (druk deze goed aan), aardappelstamp en geraspte kaas. Herhaal de laagjes nogmaals

@@ -31,7 +31,7 @@ ingredients:
 - olijfolie
 
 directions:
-- Verwarm de over voor op 200℃
+- Verwarm de oven voor op 200℃
 - Snij de aubergine in plakken
 - Vul een schaaltje met olijfolie en bestrijk de aubergine ruim met olijfolie
 - Grill de aubergine in een grillpan aan beide zijdes totdat ze zacht zijn
