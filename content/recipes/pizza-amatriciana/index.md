@@ -33,7 +33,7 @@ directions:
 - Verwarm de oven op 220℃
 - Rol het deeg uit en smeer de saus uit
 - Beleg de pizza met de plakken panzetta
-- Snij de mozerella in plakken en verdeel ze over de pizza
+- Knijp wat vocht uit de mozerella en snij in plakken. Verdeel over de pizza
 - Snij de sjalotjes in ringen en verdeel deze over de pizza
 - Snij de paprika in repen en verdeel ze over de pizza
 - Rasp de pecorino boven de pizza
