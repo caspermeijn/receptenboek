@@ -26,7 +26,7 @@ ingredients:
 - 1 ui
 - 1 teen knoflook
 - ½ tl nootmuskaat
-- 100 ml creme fraiche
+- 100 ml crème fraîche
 
 directions:
 - Verwarm de oven voor op 200℃
@@ -37,6 +37,6 @@ directions:
 - Bak de bodem voor 25 minuten in de oven.
 - Bak de speckjes knapperig in de hapjespan.
 - Snij de ui en knoflook fijn en bak de ui en knoflook kort mee.
-- Smeer creme fraiche op de bodem. Leg de speckjes, ui en knoflook op de bodem.
+- Meng de crème fraîche en nootmuskaat, smeer het op de bodem. Leg de speckjes, ui en knoflook op de bodem.
 - Bak het geheel nogmaals 15 minuten in de oven.
 ---
