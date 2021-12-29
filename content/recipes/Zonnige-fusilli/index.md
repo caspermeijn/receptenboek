@@ -34,6 +34,7 @@ directions:
 - Snij de paprika in reepjes, bak deze voor 10 minuten mee
 - Pel de pistachenootjes en vijzel deze
 - Kook de fusilli, vang eventueel een mok met kookwater op
-- Pak de blender en vul deze met de parmezaan, het paprikamengsel en het kookwater. Voeg eventueel peper en zout toe
-- Garneer met de pistachenootjes en wat parmezaan
+- Maak de salade klaar
+- Maak een sausje in de blender van de parmezaan, het paprikamengsel en het kookwater. Voeg eventueel peper en zout toe
+- Serveer de pasta met het sausje. Garneer met de pistachenootjes en wat parmezaan. Serveer de salade als bijgerecht
 ---
