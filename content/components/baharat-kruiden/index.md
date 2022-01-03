@@ -12,19 +12,19 @@ authorName: Casper Meijn
 authorURL: https://caspermeijn.nl
 sourceName: Spice Wise Too zonder zout meer smaak
 sourceURL: https://www.bol.com/nl/nl/p/spice-wise-too/9200000069641505/
-yield: TODO
+yield: 1 potje
 
 ingredients:
-- 6 delen witte peper
-- 6 delen paprikapoeder
-- 4 delen cayennepeper
-- 4 delen kaneelpoeder
-- 4 delen koriander
-- 4 delen komijn
-- 2 delen nootmuskaat
-- 1 deel kardemom
-- 2 delen oregano
-- 1 deel kruidnagel
+- optioneel 3 theelepels witte peper
+- 3 theelepels paprikapoeder
+- 2 theelepels cayennepeper
+- 2 theelepels kaneelpoeder
+- 2 theelepels koriander
+- 2 theelepels komijn
+- 1 theelepels nootmuskaat
+- 1 theelepels oregano
+- ½ theelepels kardemom
+- ½ theelepels kruidnagel
 
 directions:
 - Mix alle kruiden met elkaar
