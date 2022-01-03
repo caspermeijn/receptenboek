@@ -14,8 +14,6 @@ authorURL: https://caspermeijn.nl
 sourceName: VEG - Jamie Oliver
 sourceURL: https://www.bol.com/nl/p/jamie-s-veg/9200000107638139/
 category: Avondeten
-tags:
-  - Mist foto
 yield: 2 personen
 prepTime: 20 minuten
 cookTime: 20 minuten
@@ -50,5 +48,4 @@ directions:
 - Haal de deksel van de pan, voeg de mangochutney toe en laat het nog 10 minuten pruttelen
 - Voeg naar smaak peper en zout toe  
 - Serveer de rijst en curry met amandelen
-- Maak een foto voor het receptenboek
 ---
