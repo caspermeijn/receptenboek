@@ -14,8 +14,6 @@ authorURL: https://caspermeijn.nl
 sourceName: Boodschappen Magazine nr. 3 van 2018
 sourceURL: https://www.boodschappen.nl/recept/knolselderij-spitskoolschotel-met-pittig-gehakt/
 category: Avondeten
-tags:
-  - Mist tijd
 yield: 2 personen
 prepTime: 20 minuten
 cookTime: 30 minuten 
@@ -40,7 +38,6 @@ directions:
 - Voeg de kruimgehakt en tomatensaus toe en bak een paar minuten mee
 - Snij de spitskool in reepjes.
 - Maak laagjes in een ovenschaal van de helft van de gehaktsaus, spitskool (druk deze goed aan), aardappelstamp en geraspte kaas. Herhaal de laagjes nogmaals
-- Giet de gehakt saus in een overschaal. Verdeel de spitskool erover
 - Zet de schotel 15 minuten in de oven
 - Maak een foto voor het receptenboek
 ---
