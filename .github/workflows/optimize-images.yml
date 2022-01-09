@@ -1,0 +1,37 @@
+# Copyright (C) 2020 Casper Meijn <casper@meijn.net>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+name: Optimize images
+
+on:
+  push:
+    branches:
+      - main
+      - master
+
+jobs:
+  optimize-images:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+
+    - name: Install jpegoptim
+      run: |
+        sudo apt-get -y install jpegoptim
+
+    - name: Run jpegoptim
+      run: |
+        find -name *.jpg -exec jpegoptim --strip-all {} \;
+
+    - name: Create Pull Request
+      uses: peter-evans/create-pull-request@v3
+      with:
+        commit-message: Optimize images
+        title: Optimize images
+        body: Run jpegoptim to optimize the images
+        branch: optimize-images
+        delete-branch: true
