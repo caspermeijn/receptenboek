@@ -23,3 +23,8 @@ jobs:
 
       - name: Build
         run: hugo
+
+      - name: "Lint: prevent large files"
+        run: |
+          echo "Large files in repository:"
+          find content/ -size +500k -exec ls -hal '{}' \+ -exec false '{}' \+
