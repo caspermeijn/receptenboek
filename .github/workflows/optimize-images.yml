@@ -19,13 +19,17 @@ jobs:
       with:
         fetch-depth: 0
 
-    - name: Install jpegoptim
+    - name: Install image tools
       run: |
-        sudo apt-get -y install jpegoptim
+        sudo apt-get -y install jpegoptim imagemagick
 
-    - name: Run jpegoptim
+    - name: Run imagemagick to reduce size
       run: |
-        find -name *.jpg -exec jpegoptim --strip-all {} \;
+        find -name *.jpg -exec mogrify -verbose -resize 1000000\@\> {} \;
+
+    - name: Run jpegoptim to optimize
+      run: |
+        find -name *.jpg -exec jpegoptim --strip-all --max=85 {} \;
 
     - name: Create Pull Request
       uses: peter-evans/create-pull-request@v3
