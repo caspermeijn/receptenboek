@@ -39,5 +39,4 @@ directions:
 - Snij de spitskool in reepjes.
 - Maak laagjes in een ovenschaal van de helft van de gehaktsaus, spitskool (druk deze goed aan), aardappelstamp en geraspte kaas. Herhaal de laagjes nogmaals
 - Zet de schotel 15 minuten in de oven
-- Maak een foto voor het receptenboek
 ---
