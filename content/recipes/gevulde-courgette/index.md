@@ -8,7 +8,7 @@
 
 layout: recipe
 date: 2021-07-24T08:53:33+02:00
-title: "Gevulde Courgette"
+title: "Gevulde courgette"
 authorName: Casper Meijn
 authorURL: https://caspermeijn.nl
 sourceName: 

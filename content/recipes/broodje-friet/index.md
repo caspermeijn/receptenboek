@@ -8,7 +8,7 @@
 
 layout: recipe
 date: 2021-05-24T12:06:32+02:00
-title: "Broodje Friet"
+title: "Broodje friet"
 authorName: Casper Meijn
 authorURL: https://caspermeijn.nl
 sourceName: Superfood voor familie en vrienden - Jamie Oliver

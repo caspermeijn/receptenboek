@@ -8,7 +8,7 @@
 
 layout: recipe
 date: 2021-12-29T15:14:59Z
-title: "Griekse Tosti"
+title: "Griekse tosti"
 authorName: Casper Meijn
 authorURL: https://caspermeijn.nl
 sourceName: Mijn favoriete gezonde recepten - Jamie Oliver

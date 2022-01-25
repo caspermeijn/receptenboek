@@ -8,7 +8,7 @@
 
 layout: recipe
 date: 2021-12-29T15:28:52Z
-title: "Bloemkool met kokosmelk en Baharat"
+title: "Bloemkool met baharat kruiden"
 authorName: Casper Meijn
 authorURL: https://caspermeijn.nl
 sourceName: Spice Wise Too zonder zout meer smaak

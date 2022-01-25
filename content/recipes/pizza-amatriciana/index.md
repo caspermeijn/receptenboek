@@ -14,8 +14,6 @@ authorURL: https://caspermeijn.nl
 sourceName: Boodschappen Magazine nr. 4 van 2018
 sourceURL: https://www.boodschappen.nl/recept/pizza-all-amatriciana/
 category: Avondeten
-tags:
-  - Mist foto
 yield: 2 personen
 prepTime: 15 minuten
 cookTime: 20 minuten 
@@ -34,10 +32,10 @@ directions:
 - Rol het deeg uit en smeer de saus uit
 - Beleg de pizza met de plakken pancetta
 - Knijp wat vocht uit de mozzarella en snij in plakken. Verdeel over de pizza
+- Was de groente en maak deze weer droog met een theedoek
 - Snij de sjalotjes in ringen en verdeel deze over de pizza
 - Snij de paprika in repen en verdeel ze over de pizza
 - Rasp de pecorino boven de pizza
 - Bak de pizza 20 minuten
 - Rasp de parmezaanse kaas boven de pizza
-- Maak een foto van het gerecht
 ---
