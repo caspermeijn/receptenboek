@@ -8,7 +8,7 @@
 
 layout: recipe
 date: 2021-05-24T12:06:39+02:00
-title: "Pasta Pesto"
+title: "Pasta pesto"
 authorName: Casper Meijn
 authorURL: https://caspermeijn.nl
 sourceName: Superfood voor familie en vrienden - Jamie Oliver

@@ -8,7 +8,7 @@
 
 layout: recipe
 date: 2021-12-29T15:45:47Z
-title: "Burger van kipfilet met bacon en salade"
+title: "Kipfilet burger met bacon en salade"
 authorName: Casper Meijn
 authorURL: https://caspermeijn.nl
 sourceName: Boodschappen Magazine nr. 5 van 2018

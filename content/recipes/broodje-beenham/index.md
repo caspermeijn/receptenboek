@@ -8,7 +8,7 @@
 
 layout: recipe
 date: 2020-08-04
-title: "Broodje Beenham"
+title: "Broodje beenham"
 authorName: Casper Meijn
 authorURL: https://caspermeijn.nl
 category: Lunch

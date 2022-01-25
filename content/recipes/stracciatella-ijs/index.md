@@ -8,7 +8,7 @@
 
 layout: recipe
 date: 2021-04-13T21:30:32+02:00
-title: "Stracciatella Ijs"
+title: "Stracciatella ijs"
 authorName: Casper Meijn
 authorURL: https://caspermeijn.nl
 sourceName: Basic Ijs - Christophe Declercq

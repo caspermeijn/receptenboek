@@ -8,7 +8,7 @@
 
 layout: recipe
 date: 2020-12-30
-title: "Burger (vegetarisch)"
+title: "Wereldburger"
 authorName: Daphne3991
 authorURL: https://caspermeijn.nl
 category: Avondeten
