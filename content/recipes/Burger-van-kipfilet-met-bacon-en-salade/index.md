@@ -14,40 +14,39 @@ authorURL: https://caspermeijn.nl
 sourceName: Boodschappen Magazine nr. 5 van 2018
 sourceURL: https://www.boodschappen.nl/recept/burger-van-kipfilet-met-bacon-en-salade/
 category: Avondeten
-tags:
-  - Mist foto
-  - Mist tijd
 yield: 2 broodjes
-prepTime: TODO
-cookTime: TODO 
+prepTime: 25 minuten
+cookTime: 5 minuten
 
 ingredients:
-- 300 gram kipfilet
+- 250 gram kipfilet
 - 2 tenen knoflook
-- 8 plakken bacon
+- 6 plakken bacon
 - 2 ciabatta broodjes
 - 4 plakken kaas
 - 75 gram gemengde sla
 - 125 gram kleine tomaten
 - 2 bosuien
-- honing-mosterd dressing
 - 1 theelepel italiaanse kruiden
-- 2 eetlepels olijfolie
+- 2 eetlepel mayonaise
+- 2 theelepel honing
+- 1 eetlepel mosterd
+- 1 theelepel wittewijnazijn
 
 directions:
-- Verwarm de ovengrill op 200 graden
+- Verwarm de ovengrill voor op 200℃
 - Verdeel de kipfilet in twee porties en sla de kipfilet plat
 - Bestrooi de kipfilet met peper, zout en de italiaanse kruiden
-- Verhit de olijfolie in een pan en bak de kipfilet lichtbruin aan beide kanten
-- Voeg de gehakte knoflook toe en bak dit 3 tot 4 minuten
+- Verhit 2 eetlepels olijfolie in een pan en bak de kipfilet lichtbruin aan beide kanten
+- Hak de knoflook en bak dit mee
 - Haal de kipfilet en knoflook uit de pan
 - Bak de bacon in het vet van de kip
 - Snij de broodjes open
 - Leg de kaas op de binnenkant van het broodje leg daarop de kipfilet
 - Leg het broodje in de ovengrill en laat de kaas smelten
-- Meng de ingrediënten voor de salade 
+- Maak een sausje van de mayonaise, honing, mosterd en wittewijnazijn.
+- Meng de sla, tomaten en bosui met het sausje tot een salade 
 - Zodra het kaas is gesmolten kunnen de broodjes uit de oven
-- Leg de bacon op de kipfilet en leg hier wat salade bovenop
+- Leg de bacon op de kipfilet en leg hier een handje salade bovenop
 - Serveer de rest van de salade apart
-- Maak een foto voor het receptenboek
 ---
