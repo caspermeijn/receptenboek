@@ -21,10 +21,10 @@ ingredients:
 - 2 theelepels kaneelpoeder
 - 2 theelepels koriander
 - 2 theelepels komijn
-- 1 theelepels nootmuskaat
-- 1 theelepels oregano
-- ½ theelepels kardemom
-- ½ theelepels kruidnagel
+- 1 theelepel nootmuskaat
+- 1 theelepel oregano
+- ½ theelepel kardemom
+- ½ theelepel kruidnagel
 
 directions:
 - Mix alle kruiden met elkaar
