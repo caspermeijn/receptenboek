@@ -7,24 +7,23 @@
 #   send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
 layout: recipe
-title: "Baharat kruidenmix"
+title: "Sate-marinade mix"
 authorName: Casper Meijn
 authorURL: https://caspermeijn.nl
-sourceName: Spice Wise Too zonder zout meer smaak
-sourceURL: https://www.bol.com/nl/nl/p/spice-wise-too/9200000069641505/
+sourceName: Spice Wise, Michel Hanssen
+sourceURL: https://www.bol.com/nl/nl/p/spice-wise/9200000036494863/
 yield: 1 potje
 
 ingredients:
-- optioneel 3 theelepels witte peper
-- 3 theelepels paprikapoeder
-- 2 theelepels cayennepeper
-- 2 theelepels kaneelpoeder
-- 2 theelepels koriander
-- 2 theelepels komijn
-- 1 theelepel nootmuskaat
-- 1 theelepel oregano
-- ½ theelepel kardemom
-- ½ theelepel kruidnagel
+- 1,5 theelepel paprikapoeder
+- 1/2 theelepel knoflook
+- 1/4 theelepel korianderzaad
+- 1,5 theelepel bruine basterdsuiker
+- 1/2 theelepel cayennepeper
+- 1 theelepel engelse kerriepoeder
+- 1/4 theelepel komijnzaad
+- 1/2 theelepel chilivlokken
+- 1/2 theelepel gemberpoeder
 
 directions:
 - Mix alle kruiden met elkaar
