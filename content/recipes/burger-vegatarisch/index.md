@@ -21,7 +21,7 @@ cookTime: 20 minuten
 
 ingredients:
 - 150 gram snackwortels
-- 100 gram parmazaanse kaas
+- 100 gram Parmezaanse kaas
 - 50 gram havervlokken
 - 1 ei
 - 1/2 tl peper
@@ -29,7 +29,7 @@ ingredients:
 - 1 tl peterselie
 - 1 tl oregano
 - 4 hamburgerbroodjes
-- tarwemeel
+- tarwebloem
 - Mangochutney
 - Blue band voor bakken
 - Iets voor erbij (ovenfriet misschien?)
@@ -39,7 +39,7 @@ directions:
 - Vul een kom met havervlokken, het ei en de kruiden
 - Rasp de wortel en kaas in de keukenmachine fijn en voeg deze toe aan de kom
 - Kneed alles door elkaar en laat het 15 minuten rusten
-- Vorm 4 burgers en bedek deze met meel
+- Vorm 4 burgers en bedek deze met bloem
 - Bak de burgers aan beide kanten in 10 minuten. De pan moet heet zijn en de burgers moeten bruin en knapperig worden.
 - Beleg de broodjes met de burger en mangochutney  
 - Maak een foto voor het receptenboek
