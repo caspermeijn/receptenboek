@@ -15,7 +15,6 @@ sourceName: Receptenkalender 6 April
 sourceURL: Unknown
 category: Avondeten
 tags:
-  - Mist foto
   - Mist tijd
 yield: 2 personen
 prepTime: TODO
@@ -41,5 +40,4 @@ directions:
 - Doe de aardappels, kruiden en eventueel 4 el olie in de braadpan. Bak de aardappels 10 minuten
 - Bak de groenteballetjes in een koekenpan
 - Serveer de aardappels, de salade en de groenteballetjes op een bord
-- Maak een foto voor het receptenboek
 ---

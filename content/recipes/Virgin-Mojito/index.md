@@ -14,8 +14,6 @@ authorURL: https://caspermeijn.nl
 sourceName: Cosmopolitan
 sourceURL: https://www.cosmopolitan.com/nl/lifestyle/a28002540/alcoholvrije-cocktail-virgin-mojito/
 category: Drankjes
-tags:
-  - Mist foto
 yield: Meerdere glazen
 prepTime: 5 minuten
 cookTime: 0
@@ -35,5 +33,4 @@ directions:
 - Gooi het glas voor ijs
 - Giet het glas vol met 7 up
 - Steek er een metalen rietje in en roer goed (de munt moet gekneusd worden en de rietsuiker moet oplossen)
-- Maak een foto voor het receptenboek
 ---

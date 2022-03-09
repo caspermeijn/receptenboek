@@ -14,8 +14,6 @@ authorURL: https://caspermeijn.nl
 sourceName: # Naam van de bron van het recept
 sourceURL: # Website van de bron van het recept
 category: Avondeten
-tags:
-  - Mist foto
 yield: 3 personen
 prepTime: 10 minuten
 cookTime: 25 minuten

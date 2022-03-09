@@ -12,8 +12,6 @@ title: "Wereldburger"
 authorName: Daphne3991
 authorURL: https://caspermeijn.nl
 category: Avondeten
-tags:
-- Mist foto
   
 yield: 4 broodjes
 prepTime: 10 minuten
@@ -42,5 +40,4 @@ directions:
 - Vorm 4 burgers en bedek deze met bloem
 - Bak de burgers aan beide kanten in 10 minuten. De pan moet heet zijn en de burgers moeten bruin en knapperig worden.
 - Beleg de broodjes met de burger en mangochutney  
-- Maak een foto voor het receptenboek
 ---
