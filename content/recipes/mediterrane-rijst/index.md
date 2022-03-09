@@ -14,9 +14,6 @@ authorURL: https://caspermeijn.nl
 sourceName: VEG - Jamie Oliver
 sourceURL: https://www.bol.com/nl/p/jamie-s-veg/9200000107638139/
 category: Avondeten
-tags:
-  - Mist foto
-  - Mist tijd
 yield: 2 personen
 prepTime: 20 minuten
 cookTime: 30 minuten 
@@ -43,5 +40,4 @@ directions:
 - Zet de pan 25 minuten onder de grill
 - Hak de olijven en meng met ½ theelepel azijn en ½ theelepel extra vergine olijfolie
 - Serveer de rijst en groente met de olijventapenade en gescheurde mozzarella
-- Maak een foto voor het receptenboek
 ---
