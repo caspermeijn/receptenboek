@@ -22,7 +22,7 @@ ingredients:
 - 100 gram Parmezaanse kaas
 - 50 gram havervlokken
 - 1 ei
-- 1/2 tl peper
+- ½ tl peper
 - 1 tl tijm
 - 1 tl peterselie
 - 1 tl oregano

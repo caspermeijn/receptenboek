@@ -18,14 +18,14 @@ ingredients:
 - 1 theelepel uienstukjes
 - 2 theelepels rietsuiker
 - 1 theelepel uienpoeder
-- 1/2 theelepel komijnzaad
-- 1,5 theelepel chilivlokken
+- ½ theelepel komijnzaad
+- 1½ theelepel chilivlokken
 - 1 theelepel cayennepeper
-- 1/2 theelepel knoflook
-- 1/2 theelepel witte peper
-- 1/2 theelepel paprikapoeder
-- 1/2 theelepel gemberpoeder
-- 1/2 theelepel koriander
+- ½ theelepel knoflook
+- ½ theelepel witte peper
+- ½ theelepel paprikapoeder
+- ½ theelepel gemberpoeder
+- ½ theelepel koriander
 
 directions:
 - Mix alle kruiden met elkaar
