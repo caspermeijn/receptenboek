@@ -7,24 +7,21 @@
 #   send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
 layout: recipe
-title: "Sate-marinade mix"
+title: "Satesaus"
 authorName: Casper Meijn
 authorURL: https://caspermeijn.nl
-sourceName: Spice Wise, Michel Hanssen
+sourceName: Spice wise, Michel Hanssen
 sourceURL: https://www.bol.com/nl/nl/p/spice-wise/9200000036494863/
-yield: 1 potje
+yield: 1 portie
 
 ingredients:
-- 1½ theelepel paprikapoeder
-- ½ theelepel knoflook
-- ¼ theelepel korianderzaad
-- 1½ theelepel bruine basterdsuiker
-- ½ theelepel cayennepeper
-- 1 theelepel engelse kerriepoeder
-- ¼ theelepel komijnzaad
-- ½ theelepel chilivlokken
-- ½ theelepel gemberpoeder
+- 2 eetlepels pindakaas
+- 125 mililiter water
+- ½ eetlepel satesaus kruiden
+- 25 gram ketjap
+- ½ eetlepel rietsuiker
 
 directions:
-- Mix alle kruiden met elkaar
+- Meng de ingrediënten in een pan
+- Breng dit aan de kook
 ---

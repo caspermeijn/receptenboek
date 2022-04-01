@@ -25,29 +25,25 @@ ingredients:
 - 165 gram rijst
 - 25 ml olijfolie
 - 250 gram wokgroenten
-- 1/2 eetlepel nasikruiden
+- ½ eetlepel nasikruiden
 - 2 eieren
 - 300 gram kipfilet of kipvervanger
-- 1/2 eetlepel sate-marinademix
-- 2 eetlepels pindakaas
-- 125 mililiter water
-- 1/2 eetlepel satesaus kruiden
-- 25 gram ketjap
-- 1/2 eetlepel rietsuiker
+- ½ eetlepel sate-marinademix
+- ingrediënten voor satesaus
 
 directions:
-- Meng 25 mililiter olie met marinademix en meng dit door de kip
+- Meng 25 mililiter olie met sate-marinademix en meng dit door de kip
 - Laat dit bij voorkeur een paar uur marineren
 - Bak de kip aan beide kanten bruin
 - Kook de rijst en laat dit droog stomen
 - Bak vervolgens de wokgroenten voor 5 minuten
 - Voeg de rijst en nasikruiden toe aan de wokgroenten en bak dit totdat de rijst goed gekleurd is door de kruiden
 - Bak de eitjes
-- Beleg de broodjes met de eieren
+- Maak de satesaus
 - Maak een foto voor het receptenboek
-- Meng de rest van de ingrediënten in een pan en breng dit aan de kook
 
 components:
+- Satesaus
 - Nasi kruiden
 - Sate-marinade mix
 - Satesaus kruidenmix
