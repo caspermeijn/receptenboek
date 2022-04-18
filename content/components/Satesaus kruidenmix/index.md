@@ -7,7 +7,7 @@
 #   send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
 layout: recipe
-title: "Satesaus kruidenmix"
+title: "Satésaus kruidenmix"
 authorName: Casper Meijn
 authorURL: https://caspermeijn.nl
 sourceName: Spice Wise, Michel Hanssen
