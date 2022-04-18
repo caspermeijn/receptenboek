@@ -23,6 +23,7 @@ cookTime: 0
 components:
 - Baharat kruidenmix
 - Engelse kerriepoeder
+- Italiaanse kruiden
 - Nasi kruiden
 - Saté-marinade mix
 - Satésaus kruidenmix
