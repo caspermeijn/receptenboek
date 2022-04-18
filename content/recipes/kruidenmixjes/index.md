@@ -21,6 +21,7 @@ prepTime: 5 minuten
 cookTime: 0
 
 components:
+- Aroma strooikruiden
 - Baharat kruidenmix
 - Engelse kerriepoeder
 - Italiaanse kruiden
