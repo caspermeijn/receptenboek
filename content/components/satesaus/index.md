@@ -7,7 +7,7 @@
 #   send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
 layout: recipe
-title: "Satesaus"
+title: "Satésaus"
 authorName: Casper Meijn
 authorURL: https://caspermeijn.nl
 sourceName: Spice wise, Michel Hanssen
@@ -16,8 +16,8 @@ yield: 1 portie
 
 ingredients:
 - 2 eetlepels pindakaas
-- 125 mililiter water
-- ½ eetlepel satesaus kruiden
+- 125 milliliter water
+- ½ eetlepel satésaus kruiden
 - 25 gram ketjap
 - ½ eetlepel rietsuiker
 

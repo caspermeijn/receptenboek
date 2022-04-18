@@ -7,7 +7,7 @@
 #   send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
 layout: recipe
-title: "Sate-marinade mix"
+title: "Saté-marinade mix"
 authorName: Casper Meijn
 authorURL: https://caspermeijn.nl
 sourceName: Spice Wise, Michel Hanssen
@@ -20,7 +20,7 @@ ingredients:
 - ¼ theelepel korianderzaad
 - 1½ theelepel bruine basterdsuiker
 - ½ theelepel cayennepeper
-- 1 theelepel engelse kerriepoeder
+- 1 theelepel Engelse kerriepoeder
 - ¼ theelepel komijnzaad
 - ½ theelepel chilivlokken
 - ½ theelepel gemberpoeder
