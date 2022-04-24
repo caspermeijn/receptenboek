@@ -14,8 +14,6 @@ authorURL: https://caspermeijn.nl
 sourceName: Basic Ijs - Christophe Declercq
 sourceURL: https://www.bol.com/nl/p/basic-ijs/9200000002769824/
 category: Desert
-tags:
-  - Mist foto
 yield: 4 broodjes
 prepTime: 30 minuten
 cookTime: 30 minuten + 24 uur wachten
@@ -27,7 +25,7 @@ ingredients:
 - 1 vanillestokje
 - 20 gram mageremelkpoeder
 - 40 gram druivensuiker
-- 120 gram suiker
+- 120 gram kristalsuiker
 - 4 eieren (+1 voor de breek)
 - 2 gram gelatine
 
@@ -36,10 +34,10 @@ directions:
 - Zet een pan op de weegschaal. Voeg de druivensuiker en 5 gram water toe
 - Verwarm de pan totdat het mengsel vloeibaar wordt
 - Snij het vanillestokje doormidden en schrap de vanillezaadjes eruit
-- Voeg de volle melk, room, mageremelkpoeder, de vanillezaadjes en de helft van de suiker toe aan de pan
+- Voeg de volle melk, room, mageremelkpoeder, de vanillezaadjes toe aan de pan
 - Laat het mengsel in de pan koken en zet daarna het vuur uit
 - Scheid de eierdooiers en doe deze in een glazen kom
-- Voeg de rest van de suiker toe en klop het luchtig
+- Voeg de kristalsuiker toe en klop het luchtig
 - Giet een derde van de pan in de kom en mix gedurende 1 minuut
 - Giet de kom terug in de pan en verwarm al roerende tot 85 ℃
 - Haal de pan van het vuur en blijf nog een halve minuut roeren
@@ -51,7 +49,7 @@ directions:
 - Plaats de ijsmix in de koelkast voor 24 uur
 - Bak van het eiwit van een omelet (lekker met ketchup) 
 - Giet de ijsmix in de ijsmachine volgens de gebruiksaanwijzing van het apparaat
-- Smelt de chocolade en schenk deze tegen het einde van het bevriezingsprocess in de machine. De snelheid van schenken bepaalt de groote van de stukjes
+- Smelt de chocolade en schenk deze tegen het einde van het bevriezingsproces in de machine. De snelheid van schenken bepaalt de grootte van de stukjes
 - Deel het ijs op in bakjes en plaats het in de vriezer
 - Maak een foto voor het receptenboek
 ---
