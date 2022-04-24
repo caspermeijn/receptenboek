@@ -10,7 +10,7 @@ layout: recipe
 date: 2021-05-03T21:11:36+02:00
 title: "Pizza met aubergine en geitenkaas"
 authorName: Casper Meijn
-authorURL: https://caspermeijn.nl
+authorURL: https://www.caspermeijn.nl
 sourceName: # Naam van de bron van het recept
 sourceURL: # Website van de bron van het recept
 category: Avondeten

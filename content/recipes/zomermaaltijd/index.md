@@ -10,7 +10,7 @@ layout: recipe
 date: 2021-03-05T12:31:45+01:00
 title: "Zomermaaltijd"
 authorName: Casper Meijn
-authorURL: https://caspermeijn.nl
+authorURL: https://www.caspermeijn.nl
 sourceName: Receptenkalender 6 April
 sourceURL: Unknown
 category: Avondeten

@@ -10,7 +10,7 @@ layout: recipe
 date: 2021-07-24T08:52:11+02:00
 title: "Tomatenrisotto"
 authorName: Casper Meijn
-authorURL: https://caspermeijn.nl
+authorURL: https://www.caspermeijn.nl
 sourceName: Superfood voor familie en vrienden - Jamie Oliver
 sourceURL: https://www.bol.com/nl/p/super-food-voor-familie-en-vrienden/9200000057111354/
 category: Avondeten

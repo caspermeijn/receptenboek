@@ -10,7 +10,7 @@ layout: recipe
 date: 2021-04-13T21:30:32+02:00
 title: "Stracciatella ijs"
 authorName: Casper Meijn
-authorURL: https://caspermeijn.nl
+authorURL: https://www.caspermeijn.nl
 sourceName: Basic Ijs - Christophe Declercq
 sourceURL: https://www.bol.com/nl/p/basic-ijs/9200000002769824/
 category: Desert

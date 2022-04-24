@@ -10,7 +10,7 @@ layout: recipe
 date: 2022-01-27T19:54:31Z
 title: "Mexicaanse lasagne"
 authorName: Casper Meijn
-authorURL: https://caspermeijn.nl
+authorURL: https://www.caspermeijn.nl
 sourceName: Allerhande
 sourceURL: https://www.ah.nl/allerhande/recept/R-R1189476/vegetarische-lasagne-met-kidneybonen
 category: Avondeten

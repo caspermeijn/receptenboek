@@ -10,7 +10,7 @@ layout: recipe
 date: 2021-10-31T15:30:16+01:00
 title: "Pizza Amatriciana"
 authorName: Casper Meijn
-authorURL: https://caspermeijn.nl
+authorURL: https://www.caspermeijn.nl
 sourceName: Boodschappen Magazine nr. 4 van 2018
 sourceURL: https://www.boodschappen.nl/recept/pizza-all-amatriciana/
 category: Avondeten

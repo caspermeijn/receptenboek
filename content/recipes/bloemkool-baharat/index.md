@@ -10,7 +10,7 @@ layout: recipe
 date: 2021-12-29T15:28:52Z
 title: "Bloemkool met baharat kruiden"
 authorName: Casper Meijn
-authorURL: https://caspermeijn.nl
+authorURL: https://www.caspermeijn.nl
 sourceName: Spice Wise Too zonder zout meer smaak
 sourceURL: https://www.bol.com/nl/nl/p/spice-wise-too/9200000069641505/
 category: Avondeten

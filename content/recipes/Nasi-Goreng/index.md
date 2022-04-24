@@ -10,7 +10,7 @@ layout: recipe
 date: 2022-02-08T20:00:53Z
 title: "Nasi Goreng"
 authorName: Casper Meijn
-authorURL: https://caspermeijn.nl
+authorURL: https://www.caspermeijn.nl
 sourceName: Spice wise, Michel Hanssen
 sourceURL: https://www.bol.com/nl/nl/p/spice-wise/9200000036494863/
 category: Avondeten

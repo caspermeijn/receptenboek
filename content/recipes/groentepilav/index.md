@@ -10,7 +10,7 @@ layout: recipe
 date: 2021-04-13T19:53:22+02:00
 title: "Groentepilav"
 authorName: Casper Meijn
-authorURL: https://caspermeijn.nl
+authorURL: https://www.caspermeijn.nl
 sourceName: Superfood voor familie en vrienden - Jamie Oliver
 sourceURL: https://www.bol.com/nl/p/super-food-voor-familie-en-vrienden/9200000057111354/
 category: Avondeten

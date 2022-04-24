@@ -10,7 +10,7 @@ layout: recipe
 date: 2021-10-31T15:46:09+01:00
 title: "Zoete aardappel/spitskool stamppot"
 authorName: Casper Meijn
-authorURL: https://caspermeijn.nl
+authorURL: https://www.caspermeijn.nl
 sourceName: Boodschappen Magazine nr. 1 van 2018
 sourceURL: https://www.boodschappen.nl/recept/zoete-aardappelstamppot-met-spitskool-en-shoarma/
 category: Avondeten

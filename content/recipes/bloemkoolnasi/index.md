@@ -10,7 +10,7 @@ layout: recipe
 date: 2022-03-31T16:11:29Z
 title: "Bloemkool-nasi"
 authorName: Casper Meijn
-authorURL: https://caspermeijn.nl
+authorURL: https://www.caspermeijn.nl
 sourceName: Yvette van Boven – Lekker recepten van het land
 sourceURL: https://www.bol.com/nl/nl/p/yvette-van-boven-lekkere-recepten-van-het-land/9200000091491403/
 category: Avondeten

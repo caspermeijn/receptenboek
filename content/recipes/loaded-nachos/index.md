@@ -10,7 +10,7 @@ layout: recipe
 date: 2021-10-21T20:14:56+02:00
 title: "Loaded nacho's"
 authorName: Casper Meijn
-authorURL: https://caspermeijn.nl
+authorURL: https://www.caspermeijn.nl
 sourceName: Boodschappen Magazine nr. 9 van 2021
 sourceURL: https://www.boodschappen.nl/recept/loaded-nachors/
 category: Avondeten

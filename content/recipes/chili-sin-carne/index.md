@@ -10,7 +10,7 @@ layout: recipe
 date: 2022-02-26T08:02:37+01:00
 title: "Chili sin carne"
 authorName: Casper Meijn
-authorURL: https://caspermeijn.nl
+authorURL: https://www.caspermeijn.nl
 sourceName: Allerhande
 sourceURL: https://www.ah.nl/allerhande/recept/R-R1189460/snelle-chili-sin-carne
 category: Avondeten
