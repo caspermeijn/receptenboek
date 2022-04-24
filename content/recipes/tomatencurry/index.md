@@ -10,7 +10,7 @@ layout: recipe
 date: 2021-05-24T11:15:23+02:00
 title: "Tomatencurry"
 authorName: Casper Meijn
-authorURL: https://caspermeijn.nl
+authorURL: https://www.caspermeijn.nl
 sourceName: VEG - Jamie Oliver
 sourceURL: https://www.bol.com/nl/p/jamie-s-veg/9200000107638139/
 category: Avondeten

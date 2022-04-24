@@ -10,7 +10,7 @@ layout: recipe
 date: 2021-11-07T20:00:17+01:00
 title: "Uiensoep"
 authorName: Casper Meijn
-authorURL: https://caspermeijn.nl
+authorURL: https://www.caspermeijn.nl
 sourceName: VEG - Jamie Oliver
 sourceURL: https://www.bol.com/nl/p/jamie-s-veg/9200000107638139/
 category: Soep

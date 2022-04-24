@@ -10,7 +10,7 @@ layout: recipe
 date: 2021-11-01T20:00:29+01:00
 title: "Zuurkool ovenschotel"
 authorName: Casper Meijn
-authorURL: https://caspermeijn.nl
+authorURL: https://www.caspermeijn.nl
 sourceName: # Naam van de bron van het recept
 sourceURL: # Website van de bron van het recept
 category: Avondeten

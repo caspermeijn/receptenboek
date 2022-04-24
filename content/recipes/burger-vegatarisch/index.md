@@ -10,7 +10,7 @@ layout: recipe
 date: 2020-12-30
 title: "Wereldburger"
 authorName: Daphne3991
-authorURL: https://caspermeijn.nl
+authorURL: https://www.caspermeijn.nl
 category: Avondeten
   
 yield: 4 broodjes

@@ -10,7 +10,7 @@ layout: recipe
 date: 2021-02-04T20:47:24+01:00
 title: "Flammkuchen"
 authorName: Casper Meijn
-authorURL: https://caspermeijn.nl
+authorURL: https://www.caspermeijn.nl
 sourceName: allerhande
 sourceURL: https://www.ah.nl/allerhande/recept/R-R1191088/flammkuchen-met-bloemkoolbodem
 category: Avondeten

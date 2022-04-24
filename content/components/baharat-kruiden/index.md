@@ -9,7 +9,7 @@
 layout: recipe
 title: "Baharat kruidenmix"
 authorName: Casper Meijn
-authorURL: https://caspermeijn.nl
+authorURL: https://www.caspermeijn.nl
 sourceName: Spice Wise Too zonder zout meer smaak
 sourceURL: https://www.bol.com/nl/nl/p/spice-wise-too/9200000069641505/
 yield: 1 potje

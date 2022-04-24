@@ -10,7 +10,7 @@ layout: recipe
 date: 2021-05-04T21:39:03+02:00
 title: "Gevulde Paprika met rösti"
 authorName: Casper Meijn
-authorURL: https://caspermeijn.nl
+authorURL: https://www.caspermeijn.nl
 category: Avondeten
 yield: 2 personen
 prepTime: 30 minuten

@@ -10,7 +10,7 @@ layout: recipe
 date: 2022-02-26T08:17:34+01:00
 title: "Virgin Mojito"
 authorName: Casper Meijn
-authorURL: https://caspermeijn.nl
+authorURL: https://www.caspermeijn.nl
 sourceName: Cosmopolitan
 sourceURL: https://www.cosmopolitan.com/nl/lifestyle/a28002540/alcoholvrije-cocktail-virgin-mojito/
 category: Drankjes

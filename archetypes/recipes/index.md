@@ -10,7 +10,7 @@ layout: recipe
 date: {{ .Date }}
 title: "{{ replace .Name "-" " " | humanize | title }}"
 authorName: Casper Meijn
-authorURL: https://caspermeijn.nl
+authorURL: https://www.caspermeijn.nl
 sourceName: # Naam van de bron van het recept
 sourceURL: # Website van de bron van het recept
 category: NogInTeVullen

@@ -10,7 +10,7 @@ layout: recipe
 date: 2021-12-29T19:07:57Z
 title: "Zoetzure roerbakschotel"
 authorName: Casper Meijn
-authorURL: https://caspermeijn.nl
+authorURL: https://www.caspermeijn.nl
 sourceName: Veg Jamie Oliver
 sourceURL: https://www.bol.com/nl/nl/p/jamie-oliver-veg/9200000107638139/?Referrer=ADVNLGOO002008J-KWRT7ORGN7GUY-565596392764&gclid=EAIaIQobChMIwOjYpduJ9QIVhf93Ch0RZQYFEAAYASAAEgKxs_D_BwE
 category: Avondeten

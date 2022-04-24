@@ -10,7 +10,7 @@ layout: recipe
 date: 2022-04-18T11:34:50Z
 title: "Kruidenmixjes"
 authorName: Casper Meijn
-authorURL: https://caspermeijn.nl
+authorURL: https://www.caspermeijn.nl
 sourceName: # Naam van de bron van het recept
 sourceURL: # Website van de bron van het recept
 # category: NogInTeVullen

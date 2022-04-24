@@ -10,7 +10,7 @@ layout: recipe
 date: 2021-04-18T09:52:57+02:00
 title: "Andijviestamppot"
 authorName: Casper Meijn
-authorURL: https://caspermeijn.nl
+authorURL: https://www.caspermeijn.nl
 sourceName: # Naam van de bron van het recept
 sourceURL: # Website van de bron van het recept
 category: Avondeten

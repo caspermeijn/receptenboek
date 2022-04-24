@@ -10,7 +10,7 @@ layout: recipe
 date: 2021-11-08T17:23:27Z
 title: "Knolselderij-spitskoolschotel"
 authorName: Casper Meijn
-authorURL: https://caspermeijn.nl
+authorURL: https://www.caspermeijn.nl
 sourceName: Boodschappen Magazine nr. 3 van 2018
 sourceURL: https://www.boodschappen.nl/recept/knolselderij-spitskoolschotel-met-pittig-gehakt/
 category: Avondeten

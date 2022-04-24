@@ -10,7 +10,7 @@ layout: recipe
 date: 2021-10-19T19:04:40+02:00
 title: "Stroopwafel-noten-roomtaart"
 authorName: Casper Meijn
-authorURL: https://caspermeijn.nl
+authorURL: https://www.caspermeijn.nl
 sourceName: Boodschappen Magazine nr. 9 van 2021
 sourceURL: https://www.boodschappen.nl/recept/stroopwafel-roomtaart-met-notenkaramel/
 category: Gebak

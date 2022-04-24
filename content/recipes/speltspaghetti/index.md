@@ -10,7 +10,7 @@ layout: recipe
 date: 2021-12-29T15:02:45Z
 title: "Speltspaghetti"
 authorName: Casper Meijn
-authorURL: https://caspermeijn.nl
+authorURL: https://www.caspermeijn.nl
 sourceName: Everyday Superfood Jamie Oliver
 sourceURL: https://www.jamieoliver.com/recipes/pasta-recipes/spelt-spaghetti/
 category: Avondeten

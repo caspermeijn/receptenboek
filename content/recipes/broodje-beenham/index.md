@@ -10,7 +10,7 @@ layout: recipe
 date: 2020-08-04
 title: "Broodje beenham"
 authorName: Casper Meijn
-authorURL: https://caspermeijn.nl
+authorURL: https://www.caspermeijn.nl
 category: Lunch
 yield: 4 broodjes
 prepTime: 10 minuten

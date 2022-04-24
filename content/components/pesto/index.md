@@ -9,7 +9,7 @@
 layout: recipe
 title: "Pesto"
 authorName: Casper Meijn
-authorURL: https://caspermeijn.nl
+authorURL: https://www.caspermeijn.nl
 sourceName: Superfood voor familie en vrienden - Jamie Oliver
 sourceURL: https://www.bol.com/nl/p/super-food-voor-familie-en-vrienden/9200000057111354/
 yield: 12 porties
