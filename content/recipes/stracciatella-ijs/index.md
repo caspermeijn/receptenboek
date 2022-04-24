@@ -49,7 +49,7 @@ directions:
 - Plaats de ijsmix in de koelkast voor 24 uur
 - Bak van het eiwit van een omelet (lekker met ketchup) 
 - Giet de ijsmix in de ijsmachine volgens de gebruiksaanwijzing van het apparaat
-- Smelt de chocolade en schenk deze tegen het einde van het bevriezingsprocess in de machine. De snelheid van schenken bepaalt de groote van de stukjes
+- Smelt de chocolade en schenk deze tegen het einde van het bevriezingsproces in de machine. De snelheid van schenken bepaalt de grootte van de stukjes
 - Deel het ijs op in bakjes en plaats het in de vriezer
 - Maak een foto voor het receptenboek
 ---
