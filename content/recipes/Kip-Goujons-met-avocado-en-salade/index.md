@@ -8,7 +8,7 @@
 
 layout: recipe
 date: 2022-05-06T19:02:42Z
-title: "Kip Goujons Met Avocado en Salade"
+title: "Kip Goujons met avocado en salade"
 authorName: Casper Meijn
 authorURL: https://www.caspermeijn.nl
 sourceName: Superfood - Jamie Oliver
@@ -19,14 +19,14 @@ prepTime: 20 minuten
 cookTime: 20 minuten
 
 ingredients:
-- minimaal 6 pitabroodjes
+- 6 pitabroodjes
 - 200 gram kipfilet
-- 1 plantje basilicum
+- ½ plantje basilicum
 - 1 ei
 - 2 tenen knoflook
-- 30 gram parmezaanse kaas
+- 30 gram Parmezaanse kaas
 - 1 citroen
-- 4 eetlepels yoghurt (bij voorkeur griekse)
+- 4 eetlepels Griekse yoghurt
 - 1 avocado
 - tabasco
 - een klein zakje sla
