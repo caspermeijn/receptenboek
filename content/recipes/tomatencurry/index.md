@@ -39,7 +39,8 @@ directions:
 - Laat de saffraan in 100ml kokend water wellen
 - Hak de knoflook en de peper fijn
 - Snij de ui in grote stukken  
-- Verwarm een hapjespan met 1 eetlepel olijfolie en de kruiden
+- Verwarm een hapjespan met 1 eetlepel olijfolie
+- Voeg de kruiden toe
 - Bak de knoflook, peper en ui voor 3 minuten
 - Voeg de tomaten, kokosmelk en saffraanwater toe
 - Laat het 10 minuten pruttelen met de deksel op de pan

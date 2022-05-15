@@ -27,7 +27,7 @@ ingredients:
 - Naanbrood
 
 directions:
-- Verwarm de oven volgende de verpakking van het naanbrood
+- Verwarm de oven volgens de verpakking van het naanbrood
 - Snij de bloemkool in stukken en kook in 18 minuten beetgaar. Giet dit vervolgens af
 - Snij de sjalotjes fijn en bak dit olijfolie
 - Voeg de Baharat kruidenmix toe aan de sjalotjes en bak dit even mee
