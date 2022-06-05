@@ -22,11 +22,14 @@ cookTime: 0
 
 components:
 - Aroma strooikruiden
+- Arrabiata kruiden
 - Baharat kruidenmix
 - Engelse kerriepoeder
+- Groentestrooi
 - Italiaanse kruiden
 - Nasi kruiden
 - Saté-marinade mix
 - Satésaus kruidenmix
+- Shoarmakruiden
 ---
 Dit is een verzameling van onze kruidenmixjes. We hebben de losse kruiden op voorraad en we hebben potjes met de gemixte kruiden staan.
