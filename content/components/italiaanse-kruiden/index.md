@@ -15,16 +15,16 @@ sourceURL: https://www.bol.com/nl/nl/p/spice-wise-too/9200000069641505/
 yield: 1 potje
 
 ingredients:
-- ½ theelepel salie
-- 2½ theelepel basilicum
-- 2 theelepel oregano
-- 1 theelepel peterselie
-- ½ theelepel rozemarijn
-- 1 theelepel knoflookstukjes
-- 1 theelepel tijm
-- 1½ theelepel uienstukjes
-- 1 theelepel majoraan
-- ½ theelepel bonenkruid
+- 1 theelepel salie
+- 5 theelepel basilicum
+- 4 theelepel oregano
+- 2 theelepel peterselie
+- 1 theelepel rozemarijn
+- 2 theelepel knoflookstukjes
+- 2 theelepel tijm
+- 3 theelepel uienstukjes
+- 2 theelepel majoraan
+- 1 theelepel bonenkruid
 
 directions:
 - Mix alle kruiden met elkaar
