@@ -15,3 +15,4 @@ vscode:
   extensions:
     - rusnasonov.vscode-hugo
     - streetsidesoftware.code-spell-checker-dutch
+    - streetsidesoftware.code-spell-checker

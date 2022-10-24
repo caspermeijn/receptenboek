@@ -7,25 +7,20 @@
 #   send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
 layout: recipe
-title: "Italiaanse kruiden"
+title: "Tomatensalsa"
 authorName: Casper Meijn
 authorURL: https://www.caspermeijn.nl
-sourceName: Spice Wise Too zonder zout meer smaak
-sourceURL: https://www.bol.com/nl/nl/p/spice-wise-too/9200000069641505/
-yield: 1 potje
+sourceName: Allerhande
+sourceURL: https://www.ah.nl/allerhande/recept/R-R1197259/wraps-met-kidneybonen-en-tomatensalsa
+yield: 1 portie
 
 ingredients:
-- 1 theelepel salie
-- 5 theelepel basilicum
-- 4 theelepel oregano
-- 2 theelepel peterselie
-- 1 theelepel rozemarijn
-- 2 theelepel knoflookstukjes
-- 2 theelepel tijm
-- 3 theelepel uienstukjes
-- 2 theelepel majoraan
-- 1 theelepel bonenkruid
+- 250 gram tomaten
+- 1 sjalot
+- 1 eetlepel witte natuurazijn
 
 directions:
-- Mix alle kruiden met elkaar
+- Snipper de sjalot
+- Rasp de tomaten. Laat het uitlekken
+- Meng de sjalot, tomaten, 1 eetlepel olijfolie en de azijn
 ---
