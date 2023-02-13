@@ -1,0 +1,29 @@
+// Copyright © 2023 Casper Meijn <casper@meijn.net>
+//
+// SPDX-License-Identifier: CC0-1.0
+
+{
+    "name": "Ubuntu",
+    "image": "mcr.microsoft.com/devcontainers/base:jammy",
+    "features": {
+        "ghcr.io/devcontainers/features/hugo:1": {
+            "extended": true
+        }
+    },
+    "forwardPorts": [1313],
+    // "postCreateCommand": "hugo server -D --baseURL / --appendPort=false",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "rusnasonov.vscode-hugo",
+                "streetsidesoftware.code-spell-checker-dutch",
+                "streetsidesoftware.code-spell-checker",
+            ]
+        }
+    },
+    "portsAttributes": {
+        "1313": {
+            "label": "Hugo preview"
+        }
+    },
+}
