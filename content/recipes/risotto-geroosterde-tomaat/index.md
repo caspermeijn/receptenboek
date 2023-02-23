@@ -36,8 +36,8 @@ directions:
 - Verwarm de oven voor tot 180 graden
 - Snij de tomaten door midden en verwijder de binnenkant (het vochtige deel)
 - Leg de tomaten en de knoflook in de ovenschaal. Voor de tomaten geldt, met de vlakke kant naar beneden. Strooi de tijm er over
-- Sprenkel 1 eetlepel en zout er over en zet het 1 uur in de oven
-- Breng de boullion aan de kook
+- Sprenkel 1 eetlepel olijfolie en zout er over en zet het 1 uur in de oven
+- Breng de bouillon aan de kook
 - Snij de ui en venkel in fijne stukken
 - Pak de braadpan en zet deze op de inductieplaat voeg hier 1 eetlepel olie en een klont boter aan toe. Vervolgens voeg je de ui en de venkel toe. Bak dit voor 8 minuten
 - Voeg dan de risottorijst toe en bak dit 2 minuten
