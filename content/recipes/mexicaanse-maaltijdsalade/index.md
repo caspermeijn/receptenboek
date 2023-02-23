@@ -38,10 +38,11 @@ ingredients:
 
 directions:
 - Snij de paprika, radijs, bosui, mais en kidneybonen in kleine stukjes. Meng dit in een kom to een groentemix
-- Bak de groentemix in een pan
+- Bak de groentemix met de kruiden in een pan
 - Bak de rulstukjes volgens de verpakking
 - Snij de avocado in pakken
 - Halveer de tomaatjes
 - Bouw een salade in kommen. Maak de volgende laagjes slamix, rulstukjes, groentemix, avocado, dressing, tomaten en tortillachips.
+- Serveer samen met de zure room
 - Maak een foto voor het receptenboek
 ---
