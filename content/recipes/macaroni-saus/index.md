@@ -26,11 +26,11 @@ ingredients:
 - 1 zakje snackwortels
 - 2 courgette
 - 2 rode paprika's
-- 1 zak diepvriespompoen of een kleine flespompoen
+- bosje radijs
+- groente van het seizoen
+- 4 blikken gepelde tomaten (400g)
 - 2 tenen knoflook
 - 2 tl oregano
-- 4 blikken gepelde tomaten (400g)
-- groente van het seizoen
 
 directions:
 - Maak de groente met uitzondering van de knoflook schoon en hak alles in de keukenmachine

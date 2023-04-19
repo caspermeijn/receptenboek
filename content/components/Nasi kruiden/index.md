@@ -15,14 +15,14 @@ sourceURL: https://www.bol.com/nl/nl/p/spice-wise/9200000036494863/
 yield: 1 potje
 
 ingredients:
-- 1½ theelepel koriander
-- 1 theelepel komijnzaad
-- ½ theelepel gemberpoeder
-- ½ theelepel witte peper
-- 1 theelepel knoflook
-- ¼ theelepel cayennepeper
-- 1 theelepel uienpoeder
-- 2 theelepel paprikapoeder
+- 3 theelepel koriander
+- 2 theelepel komijnzaad
+- 1 theelepel gemberpoeder
+- 1 theelepel witte peper
+- 2 theelepel knoflook
+- ½ theelepel cayennepeper
+- 2 theelepel uienpoeder
+- 4 theelepel paprikapoeder
 
 directions:
 - Mix alle kruiden met elkaar
