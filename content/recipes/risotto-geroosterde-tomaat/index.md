@@ -16,20 +16,20 @@ sourceURL: https://www.jamieoliver.com/recipes/rice-recipes/roasted-tomato-risot
 category: Avondeten
 tags:
   - Mist tijd
-yield: TODO (6 personen volgens kookboek)
-prepTime: TODO
-cookTime: TODO 
+yield: TODO (2 personen?)
+prepTime: 45 minuten
+cookTime: 45 minuten
 
 ingredients:
 - 6 grote rijpe tomaten
 - 1 bol knoflook
 - 15 gram tijm
-- 1,2 liter groentebouillon
+- 500 ml groentebouillon
 - 1 ui
 - 1 venkel
 - Boter
-- 450 gram Arborio risottorijst
-- 150 milliliter witte wijn
+- 300 gram Arborio risottorijst
+- 250 milliliter witte wijn
 - 80 gram parmezaan
 
 directions:
