@@ -30,8 +30,8 @@ ingredients:
 - Een salade als bijgerecht
 
 directions:
-- Snij de ui en knoflook en bak deze op samen met 1 eetlepel olijfolie, de azijn en zout
-- Snij de paprika in reepjes, bak deze voor 10 minuten mee
+- Snij de ui en knoflook grof en bak deze op samen met 1 eetlepel olijfolie, de azijn en zout
+- Snij de paprika grof, bak deze voor 10 minuten mee
 - Pel de pistachenootjes en vijzel deze
 - Kook de fusilli, vang eventueel een mok met kookwater op
 - Maak de salade klaar
