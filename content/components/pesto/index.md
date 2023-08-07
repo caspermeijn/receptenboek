@@ -21,7 +21,7 @@ ingredients:
 - 100 gram blanke amandelen  
 - 2 tenen knoflook
 - 1 citroen
-- 100 ml extra vergine olijfolie
+- 100 ml extra vierge olijfolie
 
 directions:
 - Hak de knoflook

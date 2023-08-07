@@ -25,7 +25,7 @@ ingredients:
 - 2 bosui
 - 1 avocado
 - 250 gram tortillachips naturel
-- 150 gram parmezaanse kaas
+- 150 gram Parmezaanse kaas
 - 200 gram vega kruimgehakt
 - 250 gram zure room
 

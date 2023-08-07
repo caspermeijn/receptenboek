@@ -51,7 +51,7 @@ directions:
 - Kook 600 ml water in de waterkoker
 - Doe het bouillonblokje en de saffraan in een glazen maatbeker
 - Zet de maatbeker op een weegschaal en schenk er 550 ml kokend water in
-- Vul een overschaal (25 bij 30 centimeter) met de rijst
+- Vul een ovenschaal (25 bij 30 centimeter) met de rijst
 - Giet de bonen af en doe ze in de ovenschaal
 - Was de blauwe bessen en doe ze in de ovenschaal
 - Doe de groente in de ovenschaal

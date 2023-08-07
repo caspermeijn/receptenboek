@@ -20,8 +20,8 @@ cookTime: 10 minuten
 
 ingredients:
 - 2 porties pesto (zie hieronder voor het recept)
-- 400 gram gemende groene groente (bijv. harticots verts, suger snaps, bimi of groene asperges)
-- 250 gram volkorenpenne
+- 400 gram gemende groene groente (bijv. haricots verts, sugar snaps, bimi of groene asperges)
+- 250 gram volkoren penne
 - 30 gram Parmezaanse kaas  
 
 directions:

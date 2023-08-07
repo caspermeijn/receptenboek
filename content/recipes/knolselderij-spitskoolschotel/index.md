@@ -27,7 +27,7 @@ ingredients:
 - ½ rode peper
 - 3 eetlepels tomatensaus
 - ½ spitskool
-- 50 gram parmezaanse kaas
+- 50 gram Parmezaanse kaas
 
 directions:
 - Verwarm de over voor op 200℃

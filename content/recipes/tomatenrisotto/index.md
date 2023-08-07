@@ -19,25 +19,25 @@ prepTime: 30 minuten
 cookTime: 10 minuten
 
 ingredients:
-- 300 gram arboriorijst
+- 300 gram Arborio rijst
 - 150 gram snackwortels
 - 2 uien
 - 400 gram gepelde tomaten
 - 300 gram hüttenkäse
 - ½ rode peper
 - 1 teen knoflook
-- 2 eetlepel extra vergine olijfolie
+- 2 eetlepel extra vierge olijfolie
 - bosje verse basilicum
-- groenteboullionblokjes
+- groentebouillonblokjes
 
 
 directions:
 - Maak de uien en wortels schoon. Hak ze in de keukenmachine
 - Bak ze 10 minuten tot ze zacht zijn
-- Maak 1 liter groenteboullion. Voeg de tomaten toe. Laat de boullion zachtjes pruttelen
-- Vul een blender met de basilicum, gehakte knoflook, een soeplepel boullion, de extra vergine olijfolie. Pureer en breng op smaak met peper en zout
+- Maak 1 liter groentebouillon. Voeg de tomaten toe. Laat de bouillon zachtjes pruttelen
+- Vul een blender met de basilicum, gehakte knoflook, een soeplepel bouillon, de extra vierge olijfolie. Pureer en breng op smaak met peper en zout
 - Doe de rijst bij de groente en bak deze 2 minuten
-- Voeg soeplepel voor soeplepel, door een zeef, boullion toe aan de rijst. Wrijf de tomaten door de zeef. Wacht steeds tot het vocht wordt opgenomen door de rijst. Blijf dit 20 minuten doen, totdat de rijst gaar en smeuïg is
+- Voeg soeplepel voor soeplepel, door een zeef, bouillon toe aan de rijst. Wrijf de tomaten door de zeef. Wacht steeds tot het vocht wordt opgenomen door de rijst. Blijf dit 20 minuten doen, totdat de rijst gaar en smeuïg is
 - Snij de peper fijn en kook deze nog twee minuten mee met de rijst
 - Roer de hüttenkäse door de risotto
 - Verdeel de risotto over de borden en schep de knoflook-basilicumsaus eroverheen

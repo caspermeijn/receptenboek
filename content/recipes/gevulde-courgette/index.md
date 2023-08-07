@@ -24,7 +24,7 @@ ingredients:
 - 1 courgette
 - 1 teen knoflook
 - 1 ei
-- 30 gram parmezaanse kaas
+- 30 gram Parmezaanse kaas
 - 30 gram broodkruimels
 - 60 gram cherry tomaatjes
 - ½ citroen

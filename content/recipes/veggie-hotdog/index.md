@@ -22,7 +22,7 @@ cookTime: 5 minuten
 
 ingredients:
 - 4 Vegetarische Slager Bratwurst
-- 4 afbakpistolet
+- 4 pistolet (afbak)
 - 4 eetlepel mayonaise
 - 4 eetlepel ketchup
 - 4 eetlepel mosterd

@@ -22,7 +22,7 @@ cookTime: 15 minuten
 ingredients:
 - 1 ui
 - 2 tenen knoflook
-- 2 eetlepels wittewijnazijn
+- 2 eetlepels witte wijnazijn
 - 2 gele paprika's
 - 50 gram pistachenootjes
 - 250 gram fusilli
