@@ -27,16 +27,16 @@ ingredients:
 - 75 gram gemengde sla
 - 125 gram kleine tomaten
 - 2 bosuien
-- 1 theelepel italiaanse kruiden
+- 1 theelepel Italiaanse kruiden
 - 2 eetlepel mayonaise
 - 2 theelepel honing
 - 1 eetlepel mosterd
-- 1 theelepel wittewijnazijn
+- 1 theelepel witte wijnazijn
 
 directions:
 - Verwarm de ovengrill voor op 200℃
 - Verdeel de kipfilet in twee porties en sla de kipfilet plat
-- Bestrooi de kipfilet met peper, zout en de italiaanse kruiden
+- Bestrooi de kipfilet met peper, zout en de Italiaanse kruiden
 - Verhit 2 eetlepels olijfolie in een pan en bak de kipfilet lichtbruin aan beide kanten
 - Hak de knoflook en bak dit mee
 - Haal de kipfilet en knoflook uit de pan
@@ -44,7 +44,7 @@ directions:
 - Snij de broodjes open
 - Leg de kaas op de binnenkant van het broodje leg daarop de kipfilet
 - Leg het broodje in de ovengrill en laat de kaas smelten
-- Maak een sausje van de mayonaise, honing, mosterd en wittewijnazijn.
+- Maak een sausje van de mayonaise, honing, mosterd en witte wijnazijn.
 - Meng de sla, tomaten en bosui met het sausje tot een salade 
 - Zodra het kaas is gesmolten kunnen de broodjes uit de oven
 - Leg de bacon op de kipfilet en leg hier een handje salade bovenop

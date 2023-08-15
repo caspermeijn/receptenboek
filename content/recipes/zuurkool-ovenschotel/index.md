@@ -31,7 +31,7 @@ directions:
 - Maak de aardappelpuree aan
 - Meng de kruiden door de puree
 - Laat de zuurkool uitlekken
-- Vul een overschaal met 2 laagjes van de zuurkool, gehackt, rozijnen en aardappelpuree
+- Vul een ovenschaal met 2 laagjes van de zuurkool, gehackt, rozijnen en aardappelpuree
 - Bestrooi met paneermeel
 - Verdeel een paar klontjes boter over de schaal
 - Bak de schotel in 25 minuten gaar

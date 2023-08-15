@@ -22,11 +22,11 @@ cookTime: 20 minuten
 ingredients:
 - 1 eetlepel tomatenpuree
 - 1 eetlepel maizena
-- 1 eetlepel wittewijnazijn
+- 1 eetlepel witte wijnazijn
 - Sojasaus
-- 1 theelepel Chinese vijfkruiden
+- 1 theelepel Chinees vijfkruidenpoeder
 - 1 rode ui
-- 1 blik perzikken (400 gram)
+- 1 blik perziken (400 gram)
 - 2 paprika's
 - 1 klein zakje snackwortels
 - 4 tenen knoflook
@@ -38,10 +38,10 @@ ingredients:
 
 directions:
 - Meng de maizena en de tomatenpuree in een grote kom met de azijn, 1 eetlepel sojasaus en de vijfkruidenpoeder
-- Voeg de sap van de perzikken toe
+- Voeg de sap van de perziken toe
 - Zet een pan klaar en roerbak op hoog vuur de ui, paprika en wortel voor 5 minuten. De pan hoort droog te zijn
 - Hak de peper en knoflook voeg ze toe aan de pan samen met een eetlepel olie. Bak dit twee minuten en roer de saus er door
-- Snij de perzikken en doe ze in de pan, net zoals de doperwten
+- Snij de perziken en doe ze in de pan, net zoals de doperwten
 - De paksoi mag in grove stukken worden gesneden (alleen het witte deel gebruiken) en voeg dit ook toe aan de pan
 - Kook de noedels volgens de verpakking
 - Rooster de sesamzaadjes kort

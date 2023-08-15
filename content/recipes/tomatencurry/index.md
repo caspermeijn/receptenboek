@@ -33,7 +33,7 @@ ingredients:
 - 2 theelepel mangochutney
 
 directions:
-- Snij de tomaten kruisling in
+- Snij de tomaten kruislings in
 - Breng een pan water aan de kook en dompel de tomaten onder voor 45 seconden
 - Laat de tomaten uitlekken en pel ze
 - Laat de saffraan in 100ml kokend water wellen

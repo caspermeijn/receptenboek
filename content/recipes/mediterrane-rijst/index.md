@@ -26,18 +26,18 @@ ingredients:
 - 4 eetlepel pesto
 - 8 zwarte olijven zonder pit
 - 70 gram mozzarella
-- wittewijnazijn
-- extra vergine olijfolie
+- witte wijnazijn
+- extra vierge olijfolie
 
 directions:
 - Zet de ovengrill op de hoogste stand
 - Pak een hapjespan die in de oven kan
-- Kook de rijst in 650 ml gezout water voor 12 minuten
+- Kook de rijst in 650 ml gezouten water voor 12 minuten
 - Snij de ui, courgette en tomaten in dunne plakken
 - Verdeel de pesto over de rijst
 - Verdeel de groentes over de rijst. Laat de plakken een klein stukje overlappen. Begin met de buitenste ring en werk naar het midden toe
 - Sprenkel er 2 eetlepel olijfolie over
 - Zet de pan 25 minuten onder de grill
-- Hak de olijven en meng met ½ theelepel azijn en ½ theelepel extra vergine olijfolie
+- Hak de olijven en meng met ½ theelepel azijn en ½ theelepel extra vierge olijfolie
 - Serveer de rijst en groente met de olijventapenade en gescheurde mozzarella
 ---

@@ -22,7 +22,7 @@ cookTime: TODO
 
 ingredients:
 - 500 gram aardappelen
-- bakje groene salade (bijv Italiaans)
+- bakje groene salade (bijv. Italiaans)
 - bakje vegetarische groenteballetjes
 - 1 ui
 - 2 teentjes knoflook

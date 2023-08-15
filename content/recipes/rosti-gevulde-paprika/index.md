@@ -39,6 +39,6 @@ directions:
 - Rasp de aardappels en ui in de keukenmachine
 - Meng met het ei en de rozemarijn.
 - Verwarm een koekenpan met olie. Schep het mengsel erin en druk het plat. Leg de deksel erop en laat het 8 minuten bakken. 
-- Draai met twee bakspanen de aardappels om en bak nog 8 minuten.
+- Draai met twee bakspatels de aardappels om en bak nog 8 minuten.
 - Serveer de rösti met crème fraîche en de gevulde paprika met een blaadje basilicum
 ---

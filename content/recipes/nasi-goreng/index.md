@@ -25,9 +25,9 @@ ingredients:
 - 165 gram rijst
 - 25 ml olijfolie
 - 250 gram wokgroenten
-- ½ eetlepel nasikruiden
+- ½ eetlepel nasi kruiden
 - 2 eieren
-- 300 gram kipfilet of kipvervanger
+- 300 gram vega kipstukjes
 - ½ eetlepel saté-marinademix
 - ingrediënten voor satésaus
 
@@ -37,7 +37,7 @@ directions:
 - Bak de kip aan beide kanten bruin
 - Kook de rijst en laat dit droog stomen
 - Bak vervolgens de wokgroenten voor 5 minuten
-- Voeg de rijst en nasikruiden toe aan de wokgroenten en bak dit totdat de rijst goed gekleurd is door de kruiden
+- Voeg de rijst en nasi kruiden toe aan de wokgroenten en bak dit totdat de rijst goed gekleurd is door de kruiden
 - Bak de eitjes
 - Maak de satésaus
 - Maak een foto voor het receptenboek
@@ -45,7 +45,7 @@ directions:
 components:
 - Satésaus
 - Nasi kruiden
-- Saté-marinade mix
+- Saté-marinademix
 - Satésaus kruidenmix
 - Engelse kerriepoeder
 ---

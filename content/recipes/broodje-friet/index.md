@@ -21,7 +21,7 @@ cookTime: 35 minuten
 ingredients:
 - 350 gram zoete aardappel
 - 3 rijpe tomaten
-- 30 gram parmazaanse kaas
+- 30 gram Parmezaanse kaas
 - ½ bosje verse basilicum (15 gram)
 - ½ rijpe avocado
 - ½ limoen
@@ -37,7 +37,7 @@ directions:
 - Meng in een ovenschaal met 1 eetlepel olie, de azijn en zout
 - Leg de partjes naast elkaar en bak ze 30 minuten in de oven
 - Kook een pan met water
-- Snij elke tomaat kruislinks in
+- Snij elke tomaat kruislings in
 - Dompel de tomaten 2 minuten in het kokende water
 - Verwijder het vel, snij ze in vieren en verwijder de zaadjes
 - Bak de tomaten met 1 eetlepel olie en chipotle-tabasco in 15 minuten tot een dikke zoute saus

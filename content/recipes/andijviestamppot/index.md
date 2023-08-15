@@ -21,7 +21,7 @@ cookTime: 10 minuten
 
 ingredients:
 - 50 gram parmaham
-- 50 gram parmezaanse kaas
+- 50 gram Parmezaanse kaas
 - 750 gram aardappels
 - 350 gram gesneden andijvie
 - 50 ml melk
@@ -35,11 +35,11 @@ directions:
 - Pak een grote soeppan. Schil de aardappels en kook ze 20 minuten
 - Snij de tomaten en olijven fijn  
 - Leg de ham op bakpapier op de bakplaat
-- Bestooi ze met geraspte kaas
+- Bestrooi ze met geraspte kaas
 - Bak ze 10 minuten krokant in de oven
 - Stamp de aardappels tot een puree
 - Giet de melk en olijfolie erbij en warm nog even door
 - Roer de andijviekruiden erdoor
 - Roer de tomaten, olijven en andijvie erdoor
-- Serveer een andijviestamp met de plakken ham
+- Serveer een andijviestamppot met de plakken ham
 ---

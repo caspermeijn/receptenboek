@@ -33,16 +33,16 @@ ingredients:
 
 directions:
 - Verwarm de oven voor op 220 ℃
-- Bestrijk de wraps met een beetje olie en een beetje zout
 - Snij de tomaten in blokjes
 - Snij de bosui in ringen
 - Pers het sap uit de limoen
-- Laat de kidneybonen en maïs uitlekken
+- Meng de bosui, tomaten en het limoensap. Voeg naar smaak zout en peper toe
+- Bestrijk de wraps met een beetje olie en een beetje zout
+- Bak de wraps 4 minuten in de oven totdat ze knapperig zijn
+- Laat de kidneybonen en maïs uitlekken. Warm dit op in een pan
 - Snij de feta in stukken
-- Bak de wraps 6 minuten in de oven totdat zij knapperig zijn
-- Meng de bosui, tomaten en het limoensap en breng op smaak met wat peper
 - Prak de avocado's tot een mousse en meng dit met de crème fraîche tot een gladde massa
-- Breng op smaak met peper en zout
-- Besmeer de wraps, nadat zij uit de oven komen, met de avocado mousse
-- Verdeel de bonen, het maïs, de tomaten en de feta over de wrap
+- Besmeer de wraps met de avocado mousse. Verdeel de bonen, het maïs, de tomaten en de feta er over
+- Serveer de platte, krokante wrap uit op een mooi bord
+- Maak een foto voor het receptenboek
 ---

@@ -8,7 +8,7 @@
 
 layout: recipe
 date: 2021-12-29T15:02:45Z
-title: "Speltspaghetti"
+title: "Spelt spaghetti"
 authorName: Casper Meijn
 authorURL: https://www.caspermeijn.nl
 sourceName: Everyday Superfood Jamie Oliver
@@ -25,7 +25,7 @@ ingredients:
 - 1 citroen
 - 500 gram kleine tomaatjes (met steel)
 - 250 gram ricotta
-- 320 speltspaghetti
+- 320 spelt spaghetti
 
 directions:
 - Verwarm de over voor op 180℃

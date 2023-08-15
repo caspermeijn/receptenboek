@@ -18,8 +18,8 @@ tags:
   - Mist foto
   - Mist tijd
 yield: 2 personen
-prepTime: TODO
-cookTime: TODO 
+prepTime: 25 minuten
+cookTime: 10 minuten
 
 ingredients:
 - Magioni Bloemkool pizzabodem (2 bodems)

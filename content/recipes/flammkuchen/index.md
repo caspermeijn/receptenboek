@@ -20,7 +20,7 @@ cookTime: 60 minuten
 
 ingredients:
 - 400 gram bloemkoolrijst
-- 100 gram parmazaanse kaas
+- 100 gram Parmezaanse kaas
 - 2 eieren
 - 125 gram vegetarische gerookte speckjes
 - 1 ui

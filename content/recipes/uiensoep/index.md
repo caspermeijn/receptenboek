@@ -42,10 +42,10 @@ directions:
 - Snij de uien in ringen
 - Hak de knoflook
 - Smelt de boter in een braadpan, voeg de ui, knoflook, laurierblaadjes, tijmblaadjes, balsamicoazijn en meel toe.
-- Roer 30 minuten tot het mengsel gekarameliseerd is.
+- Roer 30 minuten tot het mengsel gekaramelliseerd is.
 - Giet de appelcider erbij en laat het inkoken.
 - Voeg de bouillon en misopasta toe en laat het 25 minuten zachtjes pruttelen
-- Zet de overgrill op de hoogste stand
+- Zet de ovengrill op de hoogste stand
 - Kluts de eieren, mosterd, een paar druppen worcestersaus, geraspte kaas en de Marmite in een kom
 - Snij de bolletjes open en besmeer de helften met het mengsel
 - Leg de broodjes 5 minuten onder de grill

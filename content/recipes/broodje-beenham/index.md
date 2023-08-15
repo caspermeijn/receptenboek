@@ -17,17 +17,17 @@ prepTime: 10 minuten
 cookTime: 15 minuten
 
 ingredients:
-- 4 italiaanse bollen (afbak)
+- 4 Italiaanse bollen (afbak)
 - 8 plakken beenham
 - 2 theelepel dille
 - 2 eetlepel mayonaise
 - 2 theelepel honing
 - 1 eetlepel mosterd
-- 1 theelepel wittewijnazijn
+- 1 theelepel witte wijnazijn
 
 directions:
 - Verwarm de oven voor volgens de verpakking van de broodjes.
 - Bak de broodjes volgens de verpakking. Leg de beenham op een bakplaat met bakpapier en doe laatste 5 minuten ook de beenham in de oven.
-- Maak een sausje van de dille, mayonaise, honing, mosterd en wittewijnazijn.
+- Maak een sausje van de dille, mayonaise, honing, mosterd en witte wijnazijn.
 - Beleg de broodjes met de beenham en de saus.
 ---

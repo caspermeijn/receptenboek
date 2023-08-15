@@ -24,7 +24,7 @@ ingredients:
 - 250 gram mozzarella
 - 3 sjalotjes
 - 100 gram pecorino
-- 75 gram parmezaanse kaas
+- 75 gram Parmezaanse kaas
 - 1 rode paprika
 
 directions:
@@ -37,5 +37,5 @@ directions:
 - Snij de paprika in repen en verdeel ze over de pizza
 - Rasp de pecorino boven de pizza
 - Bak de pizza 20 minuten
-- Rasp de parmezaanse kaas boven de pizza
+- Rasp de Parmezaanse kaas boven de pizza
 ---
