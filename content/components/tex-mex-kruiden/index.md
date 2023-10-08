@@ -15,14 +15,14 @@ sourceURL: https://www.bol.com/nl/nl/p/spice-wise-too/9200000069641505/
 yield: 1 potje
 
 ingredients:
-- 3 theelepel uienpoeder
-- 4½ theelepel cayennepeper
-- 6 theelepel paprikapoeder
-- 3 theelepel komijnzaad
-- 1½ theelepel kaneelpoeder
-- 3 theelepel majoraan
-- 4½ theelepel uienstukjes
-- 1½ theelepel zwarte peper
+- 2 theelepel uienpoeder
+- 3 theelepel cayennepeper
+- 4 theelepel paprikapoeder
+- 2 theelepel komijnzaad
+- 1 theelepel kaneelpoeder
+- 2 theelepel majoraan
+- 3 theelepel uienstukjes
+- 1 theelepel zwarte peper
 
 directions:
 - Mix alle kruiden met elkaar
