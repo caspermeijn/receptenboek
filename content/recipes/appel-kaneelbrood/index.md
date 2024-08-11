@@ -35,7 +35,7 @@ ingredients:
 - 2 theelepel bakpoeder
 - 1 eetlepel water
 - 5 eetlepel poedersuiker
-
+- ½ theelepel zout
 
 directions:
 - Verwarm de oven op 175°C. 
@@ -43,10 +43,11 @@ directions:
 - Schil de appels en snij in plakjes
 - Hak de pecannoten
 - Pak een kom en meng de appels, basterdsuiker, boter, noten en één theelepel kaneel
+- Maak een mengsel van het meel, baking soda, bakpoeder en zout
 - Pak een andere kom en meng de suiker, crème fraîche, vanille-aroma en de eieren. Zorg er voor dat dit een glad beslag wordt
+- Voeg het meel toe aan het beslag en meng het kort.
 - Pak de cakevorm en vul dit met de helft van het beslag
 - Giet vervolgens het appel-noten mengsel hier op, gevolgd door het tweede deel van het beslag
-- Roer het beslag eventueel een beetje door
 - Zet de cakevorm voor ongeveer een uur in de oven, laat dit daarna even afkoelen
 - Meng het water, één theelepel kaneel en de poedersuiker
 - Haal de cake uit de vorm en giet het mengsel er over. Laat de topping uitharden
