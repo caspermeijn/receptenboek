@@ -8,7 +8,7 @@
 
 layout: recipe
 date: 2022-06-05T13:45:18+02:00
-title: "Virgin Blauwe Bessen Mojito"
+title: "Virgin blauwe bessen mojito"
 authorName: Casper Meijn
 authorURL: https://www.caspermeijn.nl
 sourceName: Picnic recepten

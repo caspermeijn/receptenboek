@@ -8,7 +8,7 @@
 
 layout: recipe
 date: 2023-12-27T14:16:41Z
-title: "Vegan Kip-Kerrie"
+title: "Vegan kip-kerrie"
 authorName: Casper Meijn
 authorURL: https://www.caspermeijn.nl
 sourceName: Blad Boodschappen september 2023

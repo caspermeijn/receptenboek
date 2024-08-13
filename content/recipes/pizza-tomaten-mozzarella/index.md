@@ -8,7 +8,7 @@
 
 layout: recipe
 date: 2023-12-27T14:54:59Z
-title: "Pizza met Tomaten en Mozzarella"
+title: "Pizza met tomaten en mozzarella"
 authorName: Casper Meijn
 authorURL: https://www.caspermeijn.nl
 sourceName: # Naam van de bron van het recept

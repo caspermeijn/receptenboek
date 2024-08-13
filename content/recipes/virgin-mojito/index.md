@@ -8,7 +8,7 @@
 
 layout: recipe
 date: 2022-02-26T08:17:34+01:00
-title: "Virgin Mojito"
+title: "Virgin classic mojito"
 authorName: Casper Meijn
 authorURL: https://www.caspermeijn.nl
 sourceName: Cosmopolitan

@@ -8,7 +8,7 @@
 
 layout: recipe
 date: 2021-05-04T21:39:03+02:00
-title: "Gevulde Paprika met rösti"
+title: "Gevulde paprika met rösti"
 authorName: Casper Meijn
 authorURL: https://www.caspermeijn.nl
 category: Avondeten

@@ -8,7 +8,7 @@
 
 layout: recipe
 date: 2023-04-16T19:04:37Z
-title: "Mexicaanse Tostada"
+title: "Mexicaanse tostada"
 authorName: Casper Meijn
 authorURL: https://www.caspermeijn.nl
 sourceName: Boodschappen Magazine

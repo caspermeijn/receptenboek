@@ -8,7 +8,7 @@
 
 layout: recipe
 date: 2023-12-27T14:01:01Z
-title: "Broodje Hüttenkäse en Tomaat"
+title: "Broodje hüttenkäse en tomaat"
 authorName: Casper Meijn
 authorURL: https://www.caspermeijn.nl
 sourceName: Allerhande

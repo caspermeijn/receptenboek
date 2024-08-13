@@ -8,7 +8,7 @@
 
 layout: recipe
 date: 2022-06-11T20:33:40+02:00
-title: "Mexicaanse Maaltijdsalade"
+title: "Mexicaanse maaltijdsalade"
 authorName: Casper Meijn
 authorURL: https://www.caspermeijn.nl
 sourceName: Albert Heijn Verspakket

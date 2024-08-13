@@ -8,7 +8,7 @@
 
 layout: recipe
 date: 2024-02-17T19:46:45Z
-title: "Hutspot met Geitenkaas"
+title: "Hutspot met geitenkaas"
 authorName: Casper Meijn
 authorURL: https://www.caspermeijn.nl
 sourceName: Blad Boodschappen november 2022

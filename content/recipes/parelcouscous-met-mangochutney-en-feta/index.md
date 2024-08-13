@@ -8,7 +8,7 @@
 
 layout: recipe
 date: 2022-10-30T19:00:40Z
-title: "Parelcouscous met Mangochutney en Feta"
+title: "Parelcouscous met mangochutney en feta"
 authorName: Casper Meijn
 authorURL: https://www.caspermeijn.nl
 sourceName: Picnic recepten

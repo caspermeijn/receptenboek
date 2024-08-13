@@ -8,7 +8,7 @@
 
 layout: recipe
 date: 2022-05-07T07:46:24+02:00
-title: "Veggie Hotdog"
+title: "Veggie hotdog"
 authorName: Casper Meijn
 authorURL: https://www.caspermeijn.nl
 sourceName: Boodschappen Magazine nr. 5 van 2020

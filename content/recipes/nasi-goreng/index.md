@@ -8,7 +8,7 @@
 
 layout: recipe
 date: 2022-02-08T20:00:53Z
-title: "Nasi Goreng"
+title: "Nasi goreng"
 authorName: Casper Meijn
 authorURL: https://www.caspermeijn.nl
 sourceName: Spice wise, Michel Hanssen
