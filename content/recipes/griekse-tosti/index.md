@@ -15,7 +15,6 @@ sourceName: Mijn favoriete gezonde recepten - Jamie Oliver
 sourceURL: # Website van de bron van het recept
 category: Lunch
 tags:
-  - Mist foto
   - Mist tijd
 yield: 4 tosti's
 prepTime: TODO
@@ -35,5 +34,5 @@ directions:
 - Snij de avocado in plakken en leg dit op de feta
 - Bestrooi dit met wat oregano
 - Leg de tosti in het tostiapparaat
-- Maak een foto voor het receptenboek
+- Noteer de bereidingstijd
 ---

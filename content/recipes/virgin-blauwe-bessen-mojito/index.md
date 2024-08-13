@@ -14,9 +14,6 @@ authorURL: https://www.caspermeijn.nl
 sourceName: Picnic recepten
 sourceURL: https://picnic.app/nl/
 category: Drankjes
-tags:
-  - Mist foto
-  - Mist tijd
 yield: 5 glazen
 prepTime: 10 minuten
 cookTime: 1 uur 

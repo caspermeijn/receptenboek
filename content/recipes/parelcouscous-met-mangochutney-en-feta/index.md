@@ -14,9 +14,6 @@ authorURL: https://www.caspermeijn.nl
 sourceName: Picnic recepten
 sourceURL: https://picnic.app/nl/
 category: Avondeten
-tags:
-  - Mist foto
-  - Mist tijd
 yield: 2 personen
 prepTime: 15 minuten
 cookTime: 0 minuten

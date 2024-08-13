@@ -50,6 +50,7 @@ directions:
 - Meng de rijst door de groentes
 - Serveer de rijst met de paksoi en garneer met bosui
 - Maak een foto voor het receptenboek
+- Noteer de bereidingstijd
 
 components:
 - Engelse kerriepoeder

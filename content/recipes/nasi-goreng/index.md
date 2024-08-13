@@ -15,7 +15,6 @@ sourceName: Spice wise, Michel Hanssen
 sourceURL: https://www.bol.com/nl/nl/p/spice-wise/9200000036494863/
 category: Avondeten
 tags:
-  - Mist foto
   - Mist tijd
 yield: 2 personen
 prepTime: TODO
@@ -40,7 +39,7 @@ directions:
 - Voeg de rijst en nasi kruiden toe aan de wokgroenten en bak dit totdat de rijst goed gekleurd is door de kruiden
 - Bak de eitjes
 - Maak de satésaus
-- Maak een foto voor het receptenboek
+- Noteer de bereidingstijd
 
 components:
 - Satésaus

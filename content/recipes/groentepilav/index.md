@@ -14,9 +14,6 @@ authorURL: https://www.caspermeijn.nl
 sourceName: Superfood voor familie en vrienden - Jamie Oliver
 sourceURL: https://www.bol.com/nl/p/super-food-voor-familie-en-vrienden/9200000057111354/
 category: Avondeten
-tags:
-  - Mist foto
-  - Mist tijd
 yield: 4 personen
 prepTime: 30 minuten
 cookTime: 45 minuten
@@ -60,5 +57,4 @@ directions:
 - Snij de limoen in partjes en serveer deze 
 - Steek een lepel in de yoghurt en serveer deze
 - Hak de amandelen en pistachenootjes fijn en strooi deze over de pilav
-- Maak een foto voor het receptenboek
 ---

@@ -46,4 +46,5 @@ directions:
 - Breng op smaak met peper en zout
 - Serveer het gerecht met extra sojasaus en de gebakken uitje
 - Maak een foto voor het receptenboek
+- Noteer de bereidingstijd
 ---

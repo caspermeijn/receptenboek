@@ -14,9 +14,7 @@ authorURL: https://www.caspermeijn.nl
 sourceName: Veg Jamie Oliver
 sourceURL: https://www.jamieoliver.com/recipes/rice-recipes/roasted-tomato-risotto/
 category: Avondeten
-tags:
-  - Mist tijd
-yield: TODO (2 personen?)
+yield: 2 personen
 prepTime: 45 minuten
 cookTime: 45 minuten
 
