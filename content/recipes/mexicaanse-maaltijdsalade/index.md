@@ -8,14 +8,13 @@
 
 layout: recipe
 date: 2022-06-11T20:33:40+02:00
-title: "Mexicaanse Maaltijdsalade"
+title: "Mexicaanse maaltijdsalade"
 authorName: Casper Meijn
 authorURL: https://www.caspermeijn.nl
 sourceName: Albert Heijn Verspakket
 sourceURL: https://www.ah.nl/producten/product/wi517582/ah-verspakket-maaltijdsalade-mexicaans
 category: Avondeten
 tags:
-  - Mist foto
   - Mist tijd
 yield: 2 personen
 prepTime: TODO
@@ -44,5 +43,5 @@ directions:
 - Halveer de tomaatjes
 - Bouw een salade in kommen. Maak de volgende laagjes slamix, rulstukjes, groentemix, avocado, dressing, tomaten en tortillachips.
 - Serveer samen met de zure room
-- Maak een foto voor het receptenboek
+- Noteer de bereidingstijd
 ---

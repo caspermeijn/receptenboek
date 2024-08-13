@@ -8,7 +8,7 @@
 
 layout: recipe
 date: 2023-06-03T14:00:48Z
-title: "Nacho Schotel"
+title: "Nacho schotel"
 authorName: Casper Meijn
 authorURL: https://www.caspermeijn.nl
 sourceName: Picnic recepten

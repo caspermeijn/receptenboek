@@ -8,7 +8,7 @@
 
 layout: recipe
 date: 2023-12-27T14:32:05Z
-title: "Mocktail Kaneel"
+title: "Mocktail kaneel"
 authorName: Casper Meijn
 authorURL: https://www.caspermeijn.nl
 sourceName: Jumbo

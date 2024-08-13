@@ -8,7 +8,7 @@
 
 layout: recipe
 date: 2024-02-27T20:07:58Z
-title: "Paella Met Risotto en Feta"
+title: "Paella met risotto en feta"
 authorName: Casper Meijn
 authorURL: https://www.caspermeijn.nl
 sourceName: Allerhande

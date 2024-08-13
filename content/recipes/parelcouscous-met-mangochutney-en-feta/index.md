@@ -8,15 +8,12 @@
 
 layout: recipe
 date: 2022-10-30T19:00:40Z
-title: "Parelcouscous met Mangochutney en Feta"
+title: "Parelcouscous met mangochutney en feta"
 authorName: Casper Meijn
 authorURL: https://www.caspermeijn.nl
 sourceName: Picnic recepten
 sourceURL: https://picnic.app/nl/
 category: Avondeten
-tags:
-  - Mist foto
-  - Mist tijd
 yield: 2 personen
 prepTime: 15 minuten
 cookTime: 0 minuten

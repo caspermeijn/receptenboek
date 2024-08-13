@@ -45,4 +45,5 @@ directions:
 - Bak de lasagne voor 30 minuten. Dek na 10 minuten af met aluminium om te voorkomen dat het te donker wordt.
 - Serveer met de zure room
 - Maak een foto voor het receptenboek
+- Noteer de bereidingstijd
 ---

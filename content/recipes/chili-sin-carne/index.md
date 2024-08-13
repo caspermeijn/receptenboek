@@ -14,9 +14,6 @@ authorURL: https://www.caspermeijn.nl
 sourceName: Allerhande
 sourceURL: https://www.ah.nl/allerhande/recept/R-R1189460/snelle-chili-sin-carne
 category: Avondeten
-tags:
-  - Mist foto
-  - Mist tijd
 yield: 2 personen
 prepTime: 15 minuten
 cookTime: 15 minuten
@@ -40,5 +37,4 @@ directions:
 - Rasp de kaas
 - Voeg de bonen toe en warm dit nog 3 minuten door
 - Serveer de bonenschotel met de kaas, een schoteltje crème fraîche en een schaal chips
-- Maak een foto voor het receptenboek
 ---

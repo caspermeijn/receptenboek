@@ -8,7 +8,7 @@
 
 layout: recipe
 date: 2023-12-27T14:09:18Z
-title: "Italiaanse Boerenkoolstamppot"
+title: "Italiaanse boerenkoolstamppot"
 authorName: Casper Meijn
 authorURL: https://www.caspermeijn.nl
 sourceName: Blad Boodschappen

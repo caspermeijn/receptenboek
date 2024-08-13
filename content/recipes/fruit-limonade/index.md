@@ -8,7 +8,7 @@
 
 layout: recipe
 date: 2023-12-27T14:47:45Z
-title: "Fruit Limonade"
+title: "Fruit limonade"
 authorName: Casper Meijn
 authorURL: https://www.caspermeijn.nl
 sourceName: Blad Boodschappen

@@ -8,7 +8,7 @@
 
 layout: recipe
 date: 2024-08-12T17:54:52Z
-title: "Slowcooker Linzen Chill"
+title: "Slowcooker linzen chili"
 authorName: Casper Meijn
 authorURL: https://www.caspermeijn.nl
 sourceName: Gezin over de kook

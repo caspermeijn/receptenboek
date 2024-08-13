@@ -8,7 +8,7 @@
 
 layout: recipe
 date: 2023-12-27T14:38:13Z
-title: "Bosbessen Limonade"
+title: "Bosbessen limonade"
 authorName: Casper Meijn
 authorURL: https://www.caspermeijn.nl
 sourceName: Blad Boodschappen

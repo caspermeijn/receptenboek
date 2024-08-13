@@ -8,15 +8,12 @@
 
 layout: recipe
 date: 2022-06-05T13:45:18+02:00
-title: "Virgin Blauwe Bessen Mojito"
+title: "Virgin blauwe bessen mojito"
 authorName: Casper Meijn
 authorURL: https://www.caspermeijn.nl
 sourceName: Picnic recepten
 sourceURL: https://picnic.app/nl/
 category: Drankjes
-tags:
-  - Mist foto
-  - Mist tijd
 yield: 5 glazen
 prepTime: 10 minuten
 cookTime: 1 uur 

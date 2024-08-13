@@ -14,8 +14,6 @@ authorURL: https://www.caspermeijn.nl
 sourceName: 
 sourceURL: 
 category: Avondeten
-tags:
-  - Mist tijd
 yield: 2 personen
 prepTime: 20 minuten
 cookTime: 15 minuten 
