@@ -20,7 +20,7 @@ cookTime: 45 minuten
 
 ingredients:
 - 6 grote rijpe tomaten
-- 1 bol knoflook
+- 4 tenen knoflook
 - 15 gram tijm
 - 500 ml groentebouillon
 - 1 ui
