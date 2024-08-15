@@ -10,10 +10,6 @@ Receptenboek
 
 Dit is de broncode voor ons receptenboek. Het is gemaakt met [Hugo](https://gohugo.io/) static site generator en het [gochowdown](https://github.com/seanlane/gochowdown) thema. De recepten staan in de content map. Per recept is er een mapje met daarin een markdown bestand voor de tekst en een afbeelding.
 
-GitPod
----------
-Voor deze repository is GitPod ingesteld. Dit is een online VSCode. Ga naar [https://gitpod.io/#https://github.com/caspermeijn/receptenboek]. Er opent editor waarin een preview van het Receptenboek zichtbaar is. In deze editor kunnen de gewenste aanpassingen gemaakt worden en direct een pull request voor maken.
-
 Nieuw recept
 ------------
 Een nieuwe recept kan makkelijk door middel van een archetype aangemaakt worden. Vanuit GitPod kan je het volgende doen:

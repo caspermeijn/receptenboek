@@ -26,7 +26,7 @@ jobs:
           extended: true
 
       - name: Build
-        run: hugo --minify --baseUrl https://caspermeijn.github.io/receptenboek/
+        run: hugo --minify --baseURL https://caspermeijn.github.io/receptenboek/
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
