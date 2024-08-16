@@ -10,7 +10,6 @@ title: Receptenboek
 theme: gochowdown
 defaultcontentlanguage: nl
 paginate: 20
-canonifyurls: true
 pygmentsstyle: monokai
 pygmentscodefences: true
 pygmentscodefencesguesssyntax: true
