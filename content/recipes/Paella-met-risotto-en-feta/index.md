@@ -18,8 +18,8 @@ tags:
   - Mist foto
   - Mist tijd
 yield: 2 personen
-prepTime: TODO
-cookTime: TODO 
+prepTime: 20 minuten
+cookTime: 20 minuten
 
 ingredients:
 - 200 gram risotto
