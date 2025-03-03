@@ -16,10 +16,9 @@ sourceURL: https://www.boodschappen.nl/recept/vegan-lkip-kerrier/
 category: Avondeten
 tags:
   - Mist foto
-  - Mist tijd
 yield: 2 personen
-prepTime: TODO
-cookTime: TODO 
+prepTime: 35 minuten
+cookTime: 0
 
 ingredients:
 - 300 gram vega kipstukjes
@@ -47,8 +46,8 @@ directions:
 - Kook de taugé kort in wat water en giet dit af
 - Snij de komkommer in stukjes
 - Meng de komkommer, taugé en de witte wijnazijn en serveer dit apart
-- Meng de rijst door de groentes
-- Serveer de rijst met de paksoi en garneer met bosui
+- Meng de rijst door de kerrie
+- Serveer de rijst met de groentes
 - Maak een foto voor het receptenboek
 - Noteer de bereidingstijd
 
