@@ -23,7 +23,7 @@ cookTime: TODO
 
 ingredients:
 - 350 gram rode linzen
-- 700 ml groentebouillon
+- 500 ml groentebouillon
 - 2 uien
 - 1 blik tomatenblokjes
 - 3 eetlepel barbecuesaus
