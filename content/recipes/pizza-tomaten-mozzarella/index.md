@@ -18,8 +18,8 @@ tags:
   - Mist foto
   - Mist tijd
 yield: 2 personen
-prepTime: TODO
-cookTime: TODO 
+prepTime: 20 minuten
+cookTime: 30 minuten
 
 ingredients:
 - 1 pizzadeeg
@@ -30,7 +30,6 @@ ingredients:
 - 100 gram champignons
 - 1 rode ui
 - 1 bol mozzarella
-- ½ theelepel chilivlokken
 
 directions:
 - Verwarm de oven voor op 200°C
@@ -42,7 +41,7 @@ directions:
 - Snij de champignons is dunne plakken en de ui in halve ringen
 - Verdeel de uien en de champignons over de pizza
 - Snij de mozzarella in plakken en verdeel dit over de pizza 
-- Bestrooi dit met de Parmezaanse kaas en de chilivlokken
+- Bestrooi dit met de Parmezaanse kaas
 - Bak de pizza 30 minuten in de oven
 - Maak een foto voor het receptenboek
 ---
