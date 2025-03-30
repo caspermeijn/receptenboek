@@ -22,7 +22,7 @@ ingredients:
 - 1 theelepel rozemarijn
 - 2 theelepel knoflookstukjes
 - 2 theelepel tijm
-- 3 theelepel uienstukjes
+- 3 theelepel uienpoeder
 - 2 theelepel majoraan
 - 1 theelepel bonenkruid
 

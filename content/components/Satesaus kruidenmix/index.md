@@ -15,9 +15,8 @@ sourceURL: https://www.bol.com/nl/nl/p/spice-wise/9200000036494863/
 yield: 1 potje
 
 ingredients:
-- 1 theelepel uienstukjes
 - 2 theelepels rietsuiker
-- 1 theelepel uienpoeder
+- 2 theelepel uienpoeder
 - ½ theelepel komijnzaad
 - 1½ theelepel chilivlokken
 - 1 theelepel cayennepeper
