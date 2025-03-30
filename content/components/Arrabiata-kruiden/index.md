@@ -15,7 +15,7 @@ sourceURL: https://www.bol.com/nl/nl/p/spice-wise-too/9200000069641505/
 yield: 1 potje
 
 ingredients:
-- 2 theelepel uienstukjes
+- 2 theelepel uienpoeder
 - 2 theelepel basilicum
 - 1½ theelepel knoflookpoeder
 - 1½ theelepel peterselie

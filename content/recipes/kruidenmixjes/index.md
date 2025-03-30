@@ -25,11 +25,14 @@ components:
 - Arrabiata kruiden
 - Baharat kruidenmix
 - Engelse kerriepoeder
+- Fajita kruiden
 - Groentestrooi
 - Italiaanse kruiden
+- Kruidenbouillonmix
 - Nasi kruiden
 - Saté-marinade mix
 - Satésaus kruidenmix
 - Shoarmakruiden
+- Tex-Mex Kruiden
 ---
 Dit is een verzameling van onze kruidenmixjes. We hebben de losse kruiden op voorraad en we hebben potjes met de gemixte kruiden staan.

@@ -27,4 +27,5 @@ ingredients:
 
 directions:
 - Mix alle kruiden met elkaar
+- Vul een theezakje met 2 theelepels per 500 milliliter water. Laat het 5 minuten trekken
 ---

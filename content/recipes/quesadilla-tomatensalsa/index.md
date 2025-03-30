@@ -23,23 +23,25 @@ cookTime: TODO
 ingredients:
 - 6 wraps
 - 3 paprika
-- 250 gram tomaten
 - 1 rode ui
 - 300 gram vega kipstukjes
 - 75 gram Parmezaanse kaas
 - 200 gram crème fraîche
 - 2 eetlepel tex-mex kruiden
+- 1 portie tomatensalsa
 
 directions:
 - Snij de ui fijn
-- Fruit de helft van de ui in een koekenpan en bak 2 minuten
+- Fruit de ui in een koekenpan en bak 2 minuten
 - Snij de paprika in blokjes
 - Voeg de paprika toe en bak 4 minuten
 - Voeg de tex-mex kruiden en kipstukjes toe en bak 5 minuten
-- Snij de tomaten in kleine stukjes en meng dit met de overgebleven ui tot een salsa
 - Rasp de kaas
 - Beleg een wrap voor de helft met het mengsel. Verdeel er de geraspte kaas over. Vouw de wrap dubbel. Bak de wrap 3 minuten per kant
 - Herhaal voor iedere wrap
 - Serveer de quesadilla met crème fraîche en salsa
 - Maak een foto voor het receptenboek
+
+components:
+- Tomatensalsa
 ---
