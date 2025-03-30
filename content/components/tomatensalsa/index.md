@@ -10,17 +10,24 @@ layout: recipe
 title: "Tomatensalsa"
 authorName: Casper Meijn
 authorURL: https://www.caspermeijn.nl
-sourceName: Allerhande
-sourceURL: https://www.ah.nl/allerhande/recept/R-R1197259/wraps-met-kidneybonen-en-tomatensalsa
+sourceName: Spice Wise Too zonder zout meer smaak
+sourceURL: https://www.bol.com/nl/nl/p/spice-wise-too/9200000069641505/
 yield: 1 portie
 
 ingredients:
-- 250 gram tomaten
-- 1 sjalot
-- 1 eetlepel witte natuurazijn
+- 1 ui
+- 1 groene paprika
+- 400 gram tomatenblokjes
+- ¼ theelepel chilipoeder
+- ⅓ theelepel komijnpoeder
+- ½ theelepel koriander poeder
+- ½ theelepel tex-mex kruiden
+- 2 theelepel rietsuiker
+- optioneel 1 eetlepel witte natuurazijn
 
 directions:
-- Snipper de sjalot
-- Rasp de tomaten. Laat het uitlekken
-- Meng de sjalot, tomaten, 1 eetlepel olijfolie en de azijn
+- Snipper de ui en paprika
+- Bak de ui en paprika zacht in een steelpan
+- Meng de ui, paprika, tomaten, kruiden en de azijn
+- Laat het 2 minuten zachtjes doorkoken
 ---

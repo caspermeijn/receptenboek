@@ -11,8 +11,8 @@ date: 2024-08-12T17:41:09Z
 title: "Enchilada zwarte bonen"
 authorName: Casper Meijn
 authorURL: https://www.caspermeijn.nl
-sourceName: Picnic recepten
-sourceURL: https://picnic.app/nl/
+sourceName: Spice Wise Too zonder zout meer smaak
+sourceURL: https://www.bol.com/nl/nl/p/spice-wise-too/9200000069641505/
 category: Avondeten
 tags:
   - Mist foto
@@ -23,26 +23,30 @@ cookTime: TODO
 
 ingredients:
 - 6 wraps
-- 400 gram Mexicaanse roerbakgroente
-- 1 blik tomatenblokjes
-- 100 gram Parmezaanse kaas
-- 125 gram zure room
+- 125 gram crème fraîche
+- 2 paprika
 - 1 bos lente-ui
-- klein blikje mais
+- 50 gram rozijnen
+- 40 gram pijnboompitten
+- 100 gram rijst
+- 200 gram maïs
 - 400 gram zwarte bonen
+- 1 portie tomaten salsa
 - 1 teen knoflook
+- 1 eetlepel cacaopoeder
 - 2 eetlepel tex-mex kruiden
 
 directions:
-- Verwarm de oven op 200°C. 
-- Spoel de zwarte bonen en mais af en laat uitlekken
-- Bak de roerbakgroente in een hapjespan voor 4 minuten
-- Voeg de bonen, mais en helft van de kruiden toe aan de pan en bak 6 minuten
-- Snij de lente-ui fijn en hak de knoflook. Bak deze samen met de rest van de kruiden in een tweede pan voor 2 minuten
-- Voeg de tomatenblokjes toe en laat voor 6 minuten sudderen. Breng op smaak met peper en zout
-- Vet een ovenschaal in
-- Vul de wraps met de groentemix en het meeste van de tomatensaus. Leg warps in de ovenschaal en verdeel de resterende saus en kaas over de schaal
-- Bak de wraps voor 10 minuten in de oven
-- Serveer met zure room
+- Kook de rijst
+- Snij de ui en paprika in blokjes en bak dit 5 minuten in een hapjespan
+- Spoel de zwarte bonen en maïs af en laat uitlekken
+- Voeg alle ander ingrediënten toe behalve de wraps en salsa en bak het nog 4 minuten
+- Warm de wraps op
+- Vul de wraps met de groente mix en salsa. Rol ze op
+- Serveer met crème fraîche
 - Maak een foto voor het receptenboek
+
+components:
+- Tex-Mex Kruiden
+- Tomatensalsa
 ---
