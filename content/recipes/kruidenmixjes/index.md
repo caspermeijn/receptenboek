@@ -24,6 +24,7 @@ components:
 - Aroma strooikruiden
 - Arrabiata kruiden
 - Baharat kruidenmix
+- Cajunkruiden
 - Engelse kerriepoeder
 - Fajita kruiden
 - Groentestrooi
