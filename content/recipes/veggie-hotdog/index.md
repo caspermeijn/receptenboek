@@ -11,33 +11,39 @@ date: 2022-05-07T07:46:24+02:00
 title: "Veggie hotdog"
 authorName: Casper Meijn
 authorURL: https://www.caspermeijn.nl
-sourceName: Boodschappen Magazine nr. 5 van 2020
-sourceURL: https://www.boodschappen.nl/recept/veggie-dogs-all-the-way/
-category: Lunch
+sourceName: Holy Grill (De vegetarische slager) 
+sourceURL: https://www.bol.com/nl/nl/p/holy-grill/9300000074277283/
+category: Avondeten
 tags:
   - Mist foto
-yield: 4 broodjes
-prepTime: 10 minuten
-cookTime: 5 minuten 
+yield: 6 broodjes
+prepTime: 20 minuten
+cookTime: 10 minuten 
 
 ingredients:
-- 4 Vegetarische Slager Bratwurst
-- 4 pistolet (afbak)
-- 4 eetlepel mayonaise
-- 4 eetlepel ketchup
-- 4 eetlepel mosterd
-- 4 eetlepel zuurkool
-- 4 augurken
-- 4 eetlepel gebakken uitjes
+- 6 Vegetarische Slager Little Willies
+- 6 langwerpige kadetten
+- 80 gram gruyerekaas
+- halve spitskool
+- 1 ui
+- 5 eetlepel mayonaise
+- 3 eetlepel mosterd
+- 2 theelepel maple siroop
+- 2 eetlepel bieslook
+- 2 eetlepel peterselie
 
 directions:
-- Verwarm de oven voor en bak de broodjes volgens de verpakking
-- Bak de worstjes in een pan
-- Maak een sausje van de mayonaise, ketchup en mosterd
-- Snij de augurken in plakjes
+- Snij de spitkool in kwarten
+- Snij de ui in plakken
+- Besmeer het met olie en grill het tot de groente zacht is
+- Snij de groenten in repen
+- Maak een sausje van de mayonaise, mosterd en maple siroop. Roer de groenten daardoorheen. Breng op smaak met peper en zout.
+- Bestrijk de worstjes met olie en grill in de pan
+- Rasp de kaas
 - Snij de boordjes aan de bovenkant in
-- Smeer het sausje aan de binnenkant van de broodjes
-- Leg een worsten in de boordjes
-- Verdeel de zuurkool, augurken en gebakken uitjes erover
+- Vul de broodjes met de salade
+- Leg een worstje en kaas op het broodje
+- Grill de bodem van het broodje kort in de pan
+- Garneer met bieslook
 - Maak een foto voor het receptenboek
 ---
