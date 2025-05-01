@@ -18,8 +18,7 @@ tags:
   - Mist foto
   - Mist tijd
 yield: 2 personen
-prepTime: TODO
-cookTime: TODO 
+prepTime: 20 minuten
 
 ingredients:
 - 4 wraps
