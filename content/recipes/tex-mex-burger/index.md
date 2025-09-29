@@ -29,16 +29,16 @@ ingredients:
 - nachochips
 - 1 theelepel komijn
 - 1 theelepel chilipoeder
-- 2 avocado
-- 2 tomaten
-- 2 rode uien
-- rode peper
-- sap van 1 citroen
+- 1 avocado
+- 6 cocktail tomaatjes
+- 1 rode uien
+- halve rode peper
+- citroensap
 
 directions:
 - Meng de kruiden met 2 eetlepel olie en bestrijk de burgers
 - Bak de burgers in de grill. Laat in de laatste minuut de kaas smelten op de burger
-- Snij de avocado, tomaten, ui en peper in kleine blokjes en breng op smaak met zout en citroensap
+- Maak een fijne salade van de avocado, tomaten, ui en peper door het in kleine blokjes te snijden. Het doel is dat de brokken op de burger blijven liggen als je de burger knijpen. Breng op smaak met zout en citroensap
 - Snij de broodjes in tweeën
 - Bouw de burger op met de salade, sla, burger en chips
 - Maak een foto voor het receptenboek

@@ -24,13 +24,12 @@ ingredients:
 - 6 Vegetarische Slager Little Willies
 - 6 langwerpige kadetten
 - 80 gram gruyerekaas
-- halve spitskool
+- kwart spitskool
 - 1 ui
 - 5 eetlepel mayonaise
 - 3 eetlepel mosterd
 - 2 theelepel maple siroop
 - 2 eetlepel bieslook
-- 2 eetlepel peterselie
 
 directions:
 - Snij de spitkool in kwarten

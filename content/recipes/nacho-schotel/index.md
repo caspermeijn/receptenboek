@@ -25,6 +25,7 @@ ingredients:
 - Vega kruimgehakt
 - 250 gram macaroni groente
 - 400 gram tomatenblokjes
+- 1 blik kidneybonen
 - 1 eetlepel Tex-Mex kruiden
 - 70 gram Parmezaanse kaas
 - 370 gram tortillachips
@@ -38,8 +39,9 @@ directions:
 - Snij de rode peper
 - Voeg de rode peper, tomatenblokjes en Tex-Mex kruiden toe en bak voor 5 minuten
 - Rasp de kaas
+- Laat de bonen uitlekken
 - Vet een grote ovenschaal in
-- Maak twee lagen van chips, groentemengsel en kaas
+- Maak twee lagen van chips, bonen, groentemengsel en kaas
 - Zet de schaal voor 10 minuten in de oven
 - Snij de avocado in blokjes
 - Verdeel de avocado over de ovenschaal

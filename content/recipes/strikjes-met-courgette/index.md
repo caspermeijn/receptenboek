@@ -35,13 +35,12 @@ directions:
 - Kook de pasta volgens de verpakking
 - Hak de knoflook en rode peper fijn
 - Bak deze samen met het venkelzaad
-- Rasp de courgettes en bak deze mee voor 5 minuten
+- Rasp de courgettes en bak deze mee voor 5 minuten zonder deksel
 - Rasp de kaas
-- Voeg de rosé toe en laat het inkoken
-- Zet het fornuis uit en voeg de slagroom toe
-- Giet de pasta af en vang een mok water op
+- Voeg de rosé toe en laat het 5 minuten inkoken. Niet te veel, anders wordt het waterig.
+- Zet het fornuis uit en voeg de slagroom toe. Niet te veel, anders wordt het waterig.
+- Giet de pasta af
 - Voeg de pasta met zout en peper toe aan de groentes
 - Roer de kaas erdoorheen
-- Voeg wat kookvocht toe om het smeuïg te maken
 - Maak een foto voor het receptenboek
 ---

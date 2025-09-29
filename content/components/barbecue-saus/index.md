@@ -18,8 +18,6 @@ tags:
   - Mist foto
   - Mist tijd
 yield: 4 halve jampotten
-prepTime: TODO
-cookTime: TODO 
 
 ingredients:
 - 450 gram gezeefde tomaten
