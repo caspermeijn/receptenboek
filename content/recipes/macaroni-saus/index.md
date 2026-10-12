@@ -14,9 +14,7 @@ authorURL: https://www.caspermeijn.nl
 sourceName: Jamie Oliver Super Food voor familie en vrienden
 sourceURL: https://www.jamieoliver.com/recipes/pasta-recipes/seven-veg-tomato-sauce/
 category: Avondeten
-tags:
-  - Mist foto
-yield: 7 tot 8 porties van 500 milliliter
+yield: 5 porties 
 prepTime: 30 minuten
 cookTime: 1 uur
 
@@ -39,6 +37,5 @@ directions:
 - Doe alle andere groente erbij, leg de deksel op de pan en laat dit voor 25 minuten staan. Roer wel regelmatig
 - Voeg de gepelde tomaten toe en vul de blikken voor de helft met water, voeg dit ook toe. Laat dit 25 minuten pruttelen
 - Laat de saus een beetje afkoelen en pureer deze met de staafmixer
-- Vul de bakjes met de saus en stop deze in de vriezer
-- Maak een foto voor het receptenboek
+- Vul Ziploc zakjes met 700 ml saus en stop deze in de vriezer
 ---

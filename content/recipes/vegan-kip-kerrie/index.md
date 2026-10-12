@@ -43,6 +43,7 @@ directions:
 - Kook de rijst volgens de verpakking en giet af
 - Snij de paksoi in reepjes en maak dit schoon onder de kraan
 - Roerbak de paksoi in een koekenpan
+- Snij de bosui in ringen en serveer dit apart
 - Kook de taugé kort in wat water en giet dit af
 - Snij de komkommer in stukjes
 - Meng de komkommer, taugé en de witte wijnazijn en serveer dit apart

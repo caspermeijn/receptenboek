@@ -17,8 +17,8 @@ category: Avondeten
 tags:
   - Mist tijd
 yield: 2 personen
-prepTime: TODO
-cookTime: TODO 
+prepTime: 25 minuten
+cookTime: 1 uur intrekken
 
 ingredients:
 - 165 gram rijst
@@ -31,7 +31,7 @@ ingredients:
 - ingrediënten voor satésaus
 
 directions:
-- Meng 25 milliliter olie met saté-marinademix en meng dit door de kip
+- Vul de hapjes pan met 25 milliliter olie en saté-marinademix. Meng de kip erdoor
 - Laat dit bij voorkeur een paar uur marineren
 - Bak de kip aan beide kanten bruin
 - Kook de rijst en laat dit droog stomen
