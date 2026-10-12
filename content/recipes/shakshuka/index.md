@@ -34,9 +34,9 @@ ingredients:
 - 2 theelepel suiker
 
 directions:
-- Hak de knoflook en ui
-- Snij de paprika in repen  
+- Snij de ui en paprika in repen  
 - Verhit 4 el olijfolie in een hapjespan en bak de ui en paprika voor 5 minuten
+- Hak de knoflook
 - Voeg de knoflook, komijnzaad en paprikapoeder toe en bak 3 minuten
 - Voeg de tomatenpuree toe en bak 2 minuten
 - Voeg de tomatenblokjes, tijm, suiker en 100 ml water toe en roer de saus door

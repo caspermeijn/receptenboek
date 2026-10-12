@@ -22,9 +22,9 @@ prepTime: TODO
 cookTime: TODO 
 
 ingredients:
-- 1 bloemkool of bloemkoolrijst
+- 1 verse bloemkool of bloemkoolrijst
 - 2 eieren
-- 1 eetlepel gember
+- 1 eetlepel gemberpoeder
 - 2 tenen knoflook
 - een beetje wortels
 - een klein beetje gedroogde paddenstoelen
@@ -37,11 +37,14 @@ ingredients:
 - 1 rode peper
 
 directions:
-- Maak de bloemkool klein in de keukenmachine tot ongeveer de maat van een rijstkorrel
-- Bak de eieren en haal dit weer uit de pan
-- Verwarm opnieuw olie in de pan en voeg de gember en knoflook toe. Bak dit minder dan een minuut
-- Voeg de wortel en gedroogde paddenstoelen toe. Bak dit twee minuten
-- Voeg de mais, doperwten, bosuien en rijst toe en bak dit even door. Doe de deksel op de pan en bak dit nog eens 8 minuten
+- Rasp de bloemkool in de keukenmachine tot ongeveer de maat van een rijstkorrel
+- Roerbak de eieren en haal dit weer uit de hapjespan
+- Rasp de knoflook en rode peper in de keukenmachine
+- Verwarm de pan opnieuw met olie en voeg de gember, knoflook en rode peper toe. Bak dit een minuut
+- Wissel het blad van de keukenmachine en maak schijfjes van de wortel en paddenstoelen
+- Voeg de wortel en gedroogde paddenstoelen toe aan de pan. Bak dit twee minuten
+- Snij de bosui in de keukenmachine
+- Voeg de mais, doperwten, bosuien en bloemkoolrijst toe en bak dit even door. Doe de deksel op de pan en bak dit nog eens 8 minuten
 - Voeg hierna het ei, de cashewnoten en de sojasaus toe
 - Breng op smaak met peper en zout
 - Serveer het gerecht met extra sojasaus en de gebakken uitje

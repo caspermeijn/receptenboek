@@ -16,10 +16,9 @@ sourceURL: https://gezinoverdekook.nl/vegan-slowcooker-linzen-chili/
 category: Slowcooker
 tags:
   - Mist foto
-  - Mist tijd
 yield: 2 personen
-prepTime: TODO
-cookTime: TODO 
+prepTime: 30 minuten
+cookTime: 5 uur 
 
 ingredients:
 - 350 gram rode linzen
@@ -40,8 +39,11 @@ directions:
 - Was de rode linzen goed en doe in de slowcooker
 - Snij de ui, paprika en gerookte paprika in blokjes en doe in de slowcooker
 - Hak de knoflook fijn en doe in de slowcooker
-- Maak de bouillon aan en doe in de slowcooker
+- Meng 500 ml bouillonblokjes met 300 ml kokend water aan. Schenk de bouillon in de slowcooker
 - Doe de tomatenblokjes, suiker, kruiden, saus en olie in de slowcooker
 - Laat het sudderen voor 5 uur op low
 - Maak een foto voor het receptenboek
+
+components:
+- Barbecue saus
 ---
